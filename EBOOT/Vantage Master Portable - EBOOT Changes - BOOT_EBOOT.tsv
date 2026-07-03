@@ -1,0 +1,1098 @@
+Address	Original Data	Edited Data
+0xE238E	44 98 E8 8F C3 24 E8 8F C2 24 03 00 64 A8 04 00 65 A0	45 98 C4 92 64 98 D8 8F C2 24 03 00 45 A8 07 00 44 A8
+0xE23CE	44 98 E8 8F C3 24 E8 8F C2 24 03 00 64 A8 04 00 65 A0	45 98 C4 92 64 98 08 90 C2 24 03 00 45 A8 07 00 44 A8
+0xE23FE	44 98 E8 8F C3 24 E8 8F C2 24 03 00 64 A8 04 00 65 A0	45 98 C4 92 64 98 08 90 C2 24 03 00 45 A8 07 00 44 A8
+0xE2512	44 98 38 90 23 25 38 90 22 25 03 00 64 A8 04 00 65 A0	45 98 C4 92 64 98 F8 8F 22 25 03 00 45 A8 07 00 44 A8
+0x15E0AC	ＨＰ回復魔法を使用します。 【消費ＭＰ ： %d】	Cast an HP recovery spell. [MP Cost: %d]
+0x15E0DC	状態異常魔法（金化）を使用します。 【消費ＭＰ ： %d】	Cast the Goldification status condition. [MP Cost: %d]
+0x15E114	状態異常魔法（銀化）を使用します。 【消費ＭＰ ： %d】	Cast the Silverization status condition. [MP Cost: %d]
+0x15E14C	状態異常魔法（凍結）を使用します。 【消費ＭＰ ： %d】	Cast the Freeze status condition. [MP Cost: %d]
+0x15E184	状態異常回復魔法を使用します。 【消費ＭＰ ： %d】	Cast a status recovery spell. [MP Cost: %d]
+0x15E1B8	攻撃魔法を使用します。 【消費ＭＰ ： %d】	Cast an attack spell. [MP Cost: %d]
+0x15E1FC	移動可能な範囲を表示しています。 目標地点を選んでください。	This shows where you can move to. Select a tile to move.
+0x15E238	１回の行動で移動できる範囲を表示しています。 選択した地点に仮移動させることができます。 Ｌボタンで範囲表示の種類を切り替えます。	This is the unit's move range from a single action. You can temporarily move the unit. For other range types, press the L Trigger.
+0x15E2BC	射程範囲を表示しています。 攻撃・魔法の対象を選んでください。	Spell range is highlighted. Select a target for your action.
+0x15E2FC	射程範囲を表示しています。 攻撃・魔法の目標を選んでください。	Attack range is highlighted. Select a target for your action.
+0x15E33C	召喚可能な範囲を表示しています。 召喚する地点を選んでください。	Select a highlighted tile to summon the Natial.
+0x15E37C	効果の及ぶ範囲を表示しています。 ○ボタンを押すと、魔法を実行します。	This is the area of effect. Press the Circle button to cast the spell.
+0x15E3C4	現在の地点から移動せずに、 攻撃できる範囲を表示しています。 Ｌボタンで範囲表示の種類を切り替えます。	This is the unit's attack range without moving. For other range types, press the L Trigger.
+0x15E42C	現在の地点から移動せずに、 魔法を使える範囲を表示しています。 Ｌボタンで範囲表示の種類を切り替えます。	This is the unit's spell range without moving. For other range types, press the L Trigger.
+0x15E494	現在の地点から移動せずに、 魔法効果が届く範囲を表示しています。 地点を選択すると、その地点に効果を及ぼす 魔法の使用場所を表示します。	This is the unit's spell effect range without moving. Selecting a tile shows where they can target their spell to affect this tile.
+0x15E51C	現在の地点から移動せずに、 魔法効果が届く範囲を表示しています。 Ｌボタンで範囲表示の種類を切り替えます。	This is the unit's spell effect range without moving. For other range types, press the L Trigger.
+0x15E588	移動＋攻撃の射程範囲を表示しています。 %G目標地点を選択していくと、 実際に行動することが出来ます。 %DＬボタンで範囲表示の種類を切り替えます。	This is your unit's move & attack range. %GSelect a target to see where you could attack from. %DFor other range types, press the L Trigger.
+0x15E618	移動＋攻撃の射程範囲を表示しています。 地点を選択すると、その地点に 攻撃できる位置を表示します。 Ｌボタンで範囲表示の種類を切り替えます。 	This is the unit's move & attack range. Selecting a tile shows where they could attack from. For other range types, press the L Trigger. 
+0x15E6A4	移動＋魔法の射程範囲を表示しています。 %G目標地点を選択していくと、 実際に行動することが出来ます。 %DＬボタンで範囲表示の種類を切り替えます。	This is your unit's move & spell range. %GSelect a target to see where you could cast from. %DFor other range types, press the L Trigger.
+0x15E734	移動＋魔法の射程範囲を表示しています。 地点を選択すると、その地点に対して 魔法を使える位置を表示します。 Ｌボタンで範囲表示の種類を切り替えます。	This is the unit's move & spell range. Selecting a tile shows where they could cast from. For other range types, press the L Trigger.
+0x15E7C8	移動＋魔法効果の届く範囲を表示しています。 %G目標地点を選択していくと、 実際に行動することが出来ます。 %DＬボタンで範囲表示の種類を切り替えます。	This is your unit's move & effect range. %GSelect a tile to see where you could cast from to hit it. %DFor other range types, press the L Trigger.
+0x15E85C	移動＋魔法効果の届く範囲を表示しています。 地点を選択すると、その地点に効果を及ぼす 魔法の使用場所を表示します。 Ｌボタンで範囲表示の種類を切り替えます。	This is the unit's move & effect range. Selecting a tile shows where they could cast from to hit it. For other range types, press the L Trigger.
+0x15E8F8	ユニットが影響を及ぼす可能性のある 全ての範囲を表示しています。 Ｌボタンで範囲表示の種類を切り替えます。	These are all the tiles the unit could affect with one action. For other range types, press the L Trigger.
+0x15E964	ユニットが影響を及ぼす可能性のある 全ての範囲を表示しています。	These are all the tiles the unit could affect with one action.
+0x15E9A4	指定した対象に効果を与えられる、 魔法の目標を表示しています。	These are the valid cast targets to affect the selected tile.
+0x15E9E4	先ほど指定した地点に 攻撃できる位置を表示しています。 地点を選択すると、移動を行います。	These tiles are where your unit could be for this attack. To move, press the Circle button.
+0x15EA40	先ほど指定した地点に 攻撃できる位置を表示しています。	These tiles are where the unit could be to attack here.
+0x15EA78	先ほど指定した地点に対して 魔法を使える位置を表示しています。 地点を選択すると、移動を行います。	These tiles are where your unit could cast their spell from. To move, press the Circle button.
+0x15EADC	先ほど指定した地点に対して 魔法を使える位置を表示しています。	These tiles are where the unit could cast their spell from.
+0x15EB1C	先ほど指定した地点に効果を及ぼす 魔法の使用場所を表示しています。 さらに地点を選択すると、選択した地点に 魔法を使える位置を表示します。	These are the tiles the spell could target for the effect to hit the selected tile. Choose one to see where the unit could cast from.
+0x15EBA4	ネイティアルを消滅させてもよろしいですか？	Do you want to dispel this Natial?
+0x15EBD0	%sは時間切れになりました。	%s has timed out.
+0x15EC18	水位が戻りました。	Water level reset.
+0x15EC2C	対戦を終了してワールド画面へ戻りますか？	End the match and return to the world map?
+0x15EC74	ＭＰが足りません！	Insufficient MP!
+0x15EC88	マスターではないため、選択できません。	%GOnly a Master can use this command.
+0x15ECB0	%Gユニット数が上限に達したため、 これ以上召喚できません。	%GYou have too many Natials. Dispel one to summon another.
+0x15ECEC	ネイティアルを召喚します。	Summon a new Natial.
+0x15ED08	待機して、行動を終了します。	Standby to end your turn.
+0x15ED28	攻撃を行います。	Fight another unit.
+0x15ED3C	魔法を持っていないため、選択できません。	This unit doesn't have any spells.
+0x15ED68	魔法を使用します。	Cast a spell.
+0x15ED7C	ユニットの詳細情報を表示します。	View this unit's stats & details.
+0x15EDA0	移動可能な範囲を表示します。	Display unit's movement range.
+0x15EDC0	攻撃の射程範囲を表示します。	Display unit's attack range.
+0x15EDE0	魔法の射程範囲を表示します。	Display unit's spell range.
+0x15EE00	魔法効果の届く範囲を表示します。	Display unit's spell effect range.
+0x15EE24	ユニットの影響範囲を表示します。	Display unit's area of effect.
+0x15EE48	移動＋攻撃の射程範囲を表示します。	Display unit's move & attack range.
+0x15EE6C	移動＋魔法の射程範囲を表示します。	Display unit's move & spell range.
+0x15EE90	移動＋魔法効果の届く範囲を表示します。	Display unit's move & effect range.
+0x15EEB8	ネイティアルを消滅させるコマンドです。 マスターのターン時に、 消滅させたい自軍ネイティアルの サブコマンドから使用します。	Dismiss any of your Natials. Useful for reducing maintenance costs. Select a Natial during the Master's turn to do this.
+0x15EF34	ネイティアルを消滅させます。 維持コストを減らしたい時などに使用します。 自軍マスターのターン時にのみ、 実行することが可能です。	Dismiss any of your Natials. Useful for reducing maintenance costs. Select a Natial during the Master's turn to do this.
+0x15EFB4	勝ち	Won
+0x15EFBC	負け	Lost
+0x15EFC4	%sは%sました	????
+0x15EFD4	相打ちになりました	Draw, nobody wins.
+0x15EFE8	%sは降伏しました	%s has surrendered.
+0x15EFFC	降伏してもよろしいですか？	Do you want to surrender?
+0x15F270	ランクアップボーナスとして、 追加マスター『ソーサレス』が フリー／ネットワークモードで 使用可能になりました。	As a rank-up bonus, you have unlocked the Sorceress Master for use in the Free and Network modes!
+0x15F2E0	ランクアップボーナスとして、 追加マスター『タイラント』が フリー／ネットワークモードで 使用可能になりました。	As a rank-up bonus, you have unlocked the Tyrant Master for use in the Free and Network modes!
+0x15F350	シナリオモードクリアを達成しました。	You have cleared Scenario Mode!
+0x15F378	ボーナスとして、新たに４体の追加マスターが シナリオ／エキスパートモードで 使用可能になりました。	As a reward, you can now use four additional Masters in the Scenario and Expert modes!
+0x15F3DC	エキスパートモードクリアを達成しました。	You have cleared Expert Mode!
+0x15F408	ボーナスとして、新たに２体の追加マスターが シナリオ／エキスパートモードで 使用可能になりました。	As a reward, you can now use two additional Masters in the Scenario and Expert Modes!
+0x15F46C	●総所要時間《５００時間》達成！	●Played for 500 hours!
+0x15F490	●魔晶石占拠数《１０００個》達成！	●Captured 1,000 Crystal tiles!
+0x15F4B4	●総消費ＭＰ《２００００ＭＰ》達成！	●Used 20,000 MP!
+0x15F4DC	●待機回数（マスター）《１０００回》達成！	●Waited 500 times as a Master!
+0x15F508	●攻撃回数（マスター）《５００回》達成！	●Attacked 500 times as a Master!
+0x15F534	●魔法使用回数（マスター）《５００回》達成！	●Casted 500 spells as a Master!
+0x15F564	●勝利回数《１００回》達成！	●Won 100 battles!
+0x15F584	●死亡回数《１００回》達成…	●Lost 100 battles...
+0x15F5A4	●パ・ランセル召喚数《１００体》達成！	●Summoned Pa-Rancell 100 times!
+0x15F5CC	●ダ・カーム召喚数《１００体》達成！	●Summoned Da-Colm 100 times!
+0x15F5F4	●エ・フェリオン召喚数《１００体》達成！	●Summoned Ae-Ferrion 100 times!
+0x15F620	●ギア・ブロ召喚数《１００体》達成！	●Summoned Gia-Bro 100 times!
+0x15F648	●ディ・アルマ召喚数《１００体》達成！	●Summoned D-Arma 100 times!
+0x15F670	●バ・メード召喚数《１００体》達成！	●Summoned Ba-Mado 100 times!
+0x15F698	●レキュー召喚数《１００体》達成！	●Summoned Requ 100 times!
+0x15F6BC	●ネプトジュノー召喚数《１００体》達成！	●Summoned Neptjuno 100 times!
+0x15F6E8	●ターブス召喚数《１００体》達成！	●Summoned Tarbyss 100 times!
+0x15F70C	●ザミルペン召喚数《１００体》達成！	●Summoned Zamilpen 100 times!
+0x15F734	●マーム召喚数《１００体》達成！	●Summoned Marme 100 times!
+0x15F758	●テンターク召喚数《１００体》達成！	●Summoned Tentarch 100 times!
+0x15F780	●ヘピタス召喚数《１００体》達成！	●Summoned Hepetus 100 times!
+0x15F7A4	●オーンヴィーヴル召喚数《１００体》達成！	●Summoned Oonvievle 100 times!
+0x15F7D0	●ブリックス召喚数《１００体》達成！	●Summoned Blyx 100 times!
+0x15F7F8	●ダルンダラ召喚数《１００体》達成！	●Summoned Dullmdalla 100 times!
+0x15F820	●ゼノスブリード召喚数《１００体》達成！	●Summoned Xenofiend 100 times!
+0x15F84C	●グリオン召喚数《１００体》達成！	●Summoned Greon 100 times!
+0x15F870	●ペリット召喚数《１００体》達成！	●Summoned Pelitt 100 times!
+0x15F894	●キュリア・ベル召喚数《１００体》達成！	●Summoned Kyria-Bell 100 times!
+0x15F8C0	●アモルタミス召喚数《１００体》達成！	●Summoned Amoltamis 100 times!
+0x15F8E8	●ギュネ・フォス召喚数《１００体》達成！	●Summoned Guene-Foss 100 times!
+0x15F914	●フィフネル召喚数《１００体》達成！	●Summoned Fifenall 100 times!
+0x15F93C	●レグナ・クロックス召喚数《１００体》達成！	●Summoned Regna-Croix 100 times!
+0x15F96C	●地のネイティアル撃退数《５００体》達成！	●Defeated 500 Earth Natials!
+0x15F998	●水のネイティアル撃退数《５００体》達成！	●Defeated 500 Water Natials!
+0x15F9C4	●火のネイティアル撃退数《５００体》達成！	●Defeated 500 Fire Natials!
+0x15F9F0	●天のネイティアル撃退数《５００体》達成！	●Defeated 500 Heaven Natials!
+0x15FA1C	●シナリオモードクリア！（ＮＯＲＭＡＬ）	●Cleared Normal Scenario Mode!
+0x15FA48	●シナリオモードクリア！（ＨＡＲＤ）	●Cleared Hard Scenario Mode!
+0x15FA70	●エキスパートモードクリア！	●Cleared Expert Mode!
+0x15FA90	●フリーモード全マップ制覇！	●Cleared all Free Mode maps!
+0x15FAB0	●ファイターでクリア！	●Fighter Clear!
+0x15FAC8	●デュークでクリア！	●Duke Clear!
+0x15FAE0	●ソードマンでクリア！	●Swordsman Clear!
+0x15FAF8	●ナイトでクリア！	●Knight Clear!
+0x15FB0C	●パラディンでクリア！	●Paladin Clear!
+0x15FB24	●シャドウでクリア！	●Shadow Clear!
+0x15FB3C	●レンジャーでクリア！	●Ranger Clear!
+0x15FB54	●サベージでクリア！	●Savage Clear!
+0x15FB6C	●シーフでクリア！	●Thief Clear!
+0x15FB80	●バードでクリア！	●Bard Clear!
+0x15FB94	●シスターでクリア！	●Sister Clear!
+0x15FBAC	●ソーサラーでクリア！	●Sorcerer Clear!
+0x15FBC4	●ウィッチでクリア！	●Witch Clear!
+0x15FBDC	●モンクでクリア！	●Monk Clear!
+0x15FBF0	●スピリットでクリア！	●Spirit Clear!
+0x15FC08	●ビーストでクリア！	●Beast Clear!
+0x15FC20	●ナイトメアでクリア！	●Nightmare Clear!
+0x15FC38	●フロイラインでクリア！	●Fraulein Clear!
+0x15FC54	●ロッドマスターでクリア！	●Rod Master Clear!
+0x15FC70	●ストライダーでクリア！	●Strider Clear!
+0x15FC8C	●クインビュートでクリア！	●Queen-Bute Clear!
+0x15FCA8	●へヴィエッジでクリア！	●Heavy-Edge Clear!
+0x15FCC4	●プリンセスでクリア！	●Princess Clear!
+0x15FCDC	●プレイボーイでクリア！	●Playboy Clear!
+0x15FCF8	●テクノクラートでクリア！	●Technocrat Clear!
+0x15FD14	●グラップラーでクリア！	●Grappler Clear!
+0x15FD30	●ジーニアスでクリア！	●Genius Clear!
+0x15FD48	●ダークナイトでクリア！	●Dark Knight Clear!
+0x15FD64	●ファイターでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Fighter!
+0x15FD8C	●デュークでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Duke!
+0x15FDB4	●ソードマンでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Swordsman!
+0x15FDDC	●ナイトでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Knight!
+0x15FE00	●パラディンでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Paladin!
+0x15FE28	●シャドウでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Shadow!
+0x15FE50	●レンジャーでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Ranger!
+0x15FE78	●サベージでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Savage!
+0x15FEA0	●シーフでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Thief!
+0x15FEC4	●バードでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Bard!
+0x15FEE8	●シスターでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Sister!
+0x15FF10	●ソーサラーでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Sorcerer!
+0x15FF38	●ウィッチでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Witch!
+0x15FF60	●モンクでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Monk!
+0x15FF84	●スピリットでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Spirit!
+0x15FFAC	●ビーストでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Beast!
+0x15FFD4	●ナイトメアでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Nightmare!
+0x15FFFC	●フロイラインでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Fraulein!
+0x160028	●ロッドマスターでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Rod Master!
+0x160054	●ストライダーでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Strider!
+0x160080	●クインビュートでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Queen-Bute!
+0x1600AC	●へヴィエッジでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Heavy-Edge!
+0x1600D8	●プリンセスでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Princess!
+0x160100	●プレイボーイでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Playboy!
+0x16012C	●テクノクラートでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Technocrat!
+0x160158	●グラップラーでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Grappler!
+0x160184	●ジーニアスでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Genius!
+0x1601AC	●ダークナイトでクリア！（ＥＸＰＥＲＴ）	●Cleared Expert as Dark Knight!
+0x1601D8	●スケーザ打倒！	●Bested Skeza!
+0x1601EC	●ダッツ・ワット打倒！	●Bested Datz Watt!
+0x160204	●ゴルダ・ナット打倒！	●Bested Golda Nut!
+0x16021C	●メレーナ＆マギー打倒！	●Bested Melena & Maggie!
+0x160238	●クラウン打倒！	●Bested Krown!
+0x16024C	●カエデ打倒！	●Bested Maple!
+0x16025C	●ルフィー打倒！	●Bested Luffy!
+0x160270	●アジャン打倒！	●Bested Ajahn!
+0x160284	●リー・リン打倒！	●Bested Leelynn!
+0x160298	●ディセール打倒！	●Bested Desale!
+0x1602AC	●ファーキル打倒！	●Bested Fakir!
+0x1602C0	●アトミス打倒！	●Bested Atomis!
+0x1602D4	●ユーリオ打倒！	●Bested Lapis!
+0x1602E8	●ノクシー・メッド打倒！	●Bested Noxie Medd!
+0x160304	●アフサーラ打倒！	●Bested Afshara!
+0x160318	●ブロウマン打倒！	●Bested Browman!
+0x16032C	●ベルヴァス打倒！	●Bested Belvas!
+0x160340	●ゼーオット打倒！	●Bested Zeott!
+0x160354	●ギル・ガンダロス打倒！	●Bested Gil Gandaros!
+0x160370	●フェラル・ミリナ打倒！	●Bested Feral Myrina!
+0x16038C	●ガドローム打倒！	●Bested Gadrome!
+0x1603A0	●ライラ＆フー打倒！	●Bested Lyra & Fu!
+0x1603B8	●ビュレナス打倒！	●Bested Byrenas!
+0x1603CC	●ストラーゼ打倒！	●Bested Straze!
+0x1603E0	●カクノス打倒！	●Bested Kakunos!
+0x1603F4	●ミストロック打倒！	●Bested Mistlock!
+0x16040C	●メルレット打倒！	●Bested Merlet!
+0x160420	●マッザム打倒！	●Bested Mazzam!
+0x160434	●スカーラット打倒！	●Bested Scarlet!
+0x16044C	●ギド・カーン打倒！	●Bested Gid Karn!
+0x160464	●トロッケン打倒！	●Bested Trocken!
+0x160478	●クローネ打倒！	●Bested Krone!
+0x16048C	●ウォルタン打倒！	●Bested Woltan!
+0x1604A0	●マグナ・レック打倒！	●Bested Magna Wreck!
+0x1604B8	●ファルマ打倒！	●Bested Pharma!
+0x1604CC	●マーヤ打倒！	●Bested Maya!
+0x1604DC	●ジアス打倒！	●Bested Zias!
+0x1604EC	ヴァンテージマスター	Vantage Master
+0x160504	シャイニングマスター	Shining Master
+0x16051C	レジェンドマスター	Emblem Master
+0x160530	グランドマスター	Ogre Master
+0x160544	ネイティアルマスター	Monarch Master
+0x16055C	グレートマスター	Lagoon Master
+0x160570	スーパーマスター	Vandal Master
+0x160584	エクセレントマスター	Advance Master
+0x16059C	チックマスター	Arc Master
+0x1605AC	ビギナーマスター	Fantasy Master
+0x1605C0	プチマスター	Petit Master
+0x1605D0	次へ	Next
+0x1605D8	表示切替	Data Lists
+0x1605E4	戻る	Back
+0x1605EC	戦闘評価ポイント	Battle Evaluation
+0x160606	所要時間	Duration
+0x160610	日	D
+0x160614	時間	H
+0x16061C	分	M
+0x160620	点	pt
+0x160626	魔晶石占拠数	Tiles Claimed
+0x160640	個	
+0x160646	ＭＰ消費効率	MP Efficiency
+0x160658	ボーナスポイント	Bonus Points
+0x160684	ポイント総合	Overall Points
+0x160696	戦闘評価ポイント	Battle Evaluation
+0x1606AA	ボーナスポイント	Bonus Points
+0x1606BE	今回の獲得ポイント	Total From Battle
+0x1606D4	×２	x2
+0x1606DC	×５	x5
+0x1606F0	に昇格しました。	has been promoted.
+0x160704	【%s】を手に入れた。 %s	You obtained the %s! %s
+0x160734	リザルトを終了します。よろしいですか？	Do you want to exit the results screen?
+0x16075C	対戦相手の準備が完了するまでしばらくお待ちください。	Please wait while your opponent prepares.
+0x160FA8	ＤＥＦ %2d％ＵＰ	DEF UP ＋%2d％
+0x160FBC	毎ターンＨＰ−3	−3HP Per Turn
+0x160FCC	毎ターンＨＰ＋1	＋1HP Per Turn
+0x16103C	%sは負けました。	%s lost the match.
+0x161C7C	はい	Yes
+0x161C84	いいえ	  No  
+0x161C8C	決定	Confirm
+0x161CC4	中断データは一度ロードすると削除されます。 ロードしてもよろしいですか？	Suspend data will be deleted once loaded. Do you want to load the data?
+0x161D0C	新しくゲームを開始します。	Starting a new game.
+0x161D28	ゲームデータを読み込み、続きから攻略を再開します。	Load save data and continue your adventure.
+0x161D5C	【シナリオ】 物語を通して攻略を進めるモードです。	Experience the story of Vantage Master.
+0x161D90	初めから攻略を開始します。	Start from the beginning.
+0x161DAC	【ノーマル】 標準的な難易度です。歯応えのあるバトルが楽しめます。	Standard difficulty, great for your first playthrough.
+0x161DF0	【ハード】 難易度は高めです。スリリングなバトルが楽しめます。	For those that find Normal not challenging enough, be prepared.
+0x161E30	『空の軌跡』のキャラクターでプレイします。	Play as a character from Trails in the Sky.
+0x161E5C	【ノーマル】 初期レベル１０。初心者でも安心な難易度です。	Start at level 10. A mode for beginners to Vantage Master.
+0x161E98	【ハード】 初期レベル１０。中級者以上にお勧めの難易度です。	Start at level 10. A mode for intermediate players.
+0x161ED4	【エキスパート】 究極のバトルが揃った特別なモードです。	An even harder challenge. Can you clear all 8 stages?
+0x161F0C	初めから攻略を開始します。超上級者向け。	Start from the beginning. Be on your guard.
+0x161F38	『空の軌跡』のキャラクターでプレイします。上級者以上にお勧め。	Play as a character from Trails in the Sky. Pray to Aidios.
+0x161F78	【フリー】 好きなマップを選んで、自由な戦いが楽しめるモードです。	Choose any stage and customize what both players can use.
+0x161FBC	【ネットワーク】 ネットワークを通じて、対戦ができるモードです。	Play against other players over a network connection.
+0x161FFC	前回保存した戦闘の途中経過を読み込み、ゲームを再開します。	Load a save from the middle of a battle and continue.
+0x162038	システムメニューを開きます。	Check system data and rules.
+0x162058	モード選択を終了し、タイトル画面に戻ります。	Exit mode selection and return to main menu.
+0x1620F4	オートセーブをＯＮにすると、 戦歴とカスタマイズ設定が自動で更新されます。	With auto save, your battle history and settings will update automatically.
+0x162140	戦歴とカスタマイズ設定を保存するには タイトル画面でシステムデータを 手動で保存する必要があります。	To save your battle history and settings, you must manually save the system data from the menu.
+0x1621A4	オートセーブをＯＮにします。	Enable Auto Save.
+0x1621C4	オ?[トセーブをＯＦＦにします。 戦歴とカスタマイズ設定が 自動で更新されなくなりますがよろしいですか？	Disable Auto Save. Your battle history and settings will not update automatically. Is this okay?
+0x16222C	戦歴とカスタマイズ設定が読み込まれませんが、 このままゲームを開始しますか？	Battle history and settings can't be loaded. Start the game anyway?
+0x162278	システムデータの作成が完了していませんが、 このままゲームを開始しますか？	System data creation is not done yet. Do you still want to start the game?
+0x1622C4	セーブデータの削除を行いますか？	Do you want to delete save data?
+0x1622E8	システムデータを新たに作り直しますか？	Try rebuilding the system data?
+0x162318	メモリースティックtmが挿入されていません。	No Memory StickTM can be found.
+0x162344	アクセスエラーが発生しました。 メモリースティックtmを確認して下さい。	An access error has occurred. Please check the Memory Sticktm.
+0x16238C	メモリースティックtmの空き容量が不足しています。	Insufficient space on Memory Sticktm to save.
+0x1623C0	Vantage Master PORTABLEのシステムデータを 保存するには空き容量が１２８ＫＢ以上必要です。	At least 128 KB of free space is needed to save the Vantage Master Portable system data.
+0x16241C	新規作成に失敗しました。 破損したシステムデータを削除する必要があります。	Failed to create new data. You must delete the corrupted system data.
+0x162468	Vantage Master PORTABLEのＵＭＤtmが挿入されていません。	The UMD for Vantage Master Portable is not inserted.
+0x1624A0	アクセス中にエラーが発生したため、 システムデータの作成に失敗しました。	Error occurred during access, so the system data was not created.
+0x1624E8	スリープモードに切り替わったため、 システムデータの作成に失敗しました。	The system failed to create data because it went into sleep mode.
+0x162530	このメモリースティックtmは書き込み保護されています。	This Memory StickTM is write-protected.
+0x162568	未知のエラーが発生しました。	An unknown error has occurred.
+0x162588	システムデータの作成が完了しました。	System data has been created.
+0x1625B0	Vantage Master PORTABLEのシステムデータを 作成するには空き容量が１２８ＫＢ以上必要です。	Creating system data for Vantage Master Portable requires at least 128 KB of free space.
+0x16260C	システムデータが壊れているため、 戦歴とカスタマイズ設定が失われました。	The system data is corrupted. Battle history and settings were lost.
+0x162654	アクセス中にエラーが発生したため、 システムデータのロードに失敗しました。	An error occurred accessing data, unable to load the system data.
+0x1626A0	スリープモードに切り替わったため、 システムデータのロードに失敗しました。	Unable to load data, as the system went into sleep mode.
+0x16275C	システムデータをチェックしています。 メモリースティックtmを抜かないで下さい。	Checking for System Data. Do not remove the Memory StickTM.
+0x1627AC	システムデータを新規作成しています。 メモリースティックtmを抜かないで下さい。	Creating system data. Do not remove the Memory StickTM until done.
+0x1629A0	あなたは攻撃力、防御力、素早さに優れます。 やや魔力が低く魔法防御に欠けますが、 マスターとしての素質は十分です。	You excel at attacking and defending at high speeds, yet you lack magical prowess. You possess great potential.
+0x162A14	あなたには魔力と素早さがあります。 やや魔法防御や移動力に欠けますが、 マスターとしての素質は十分です。	You excel at magical attacks and speed, yet you lack magic resistance. You possess great potential.
+0x162A7C	あなたには攻撃力と魔力があります。 防御力が低いという欠点はありますが、 マスターとしての素質は十分です。	You excel at attacking and using magic, yet your defense is quite low. You possess great potential.
+0x162AE8	あなたは高い攻撃力と防御力、魔法防御を 持っています。魔力と素早さに欠けますが、 マスターとしての素質は十分です。	You excel at attacking and defending, yet you lack speed and have weak magic. You possess great potential.
+0x162B5C	あなたは攻撃力、防御力、魔力に優れます。 遅いという欠点はありますが、 マスターとしての素質は十分です。	You excel at attacking, defending, and magic, yet your speed is quite low. You possess great potential.
+0x162BC4	あなたは素早さと移動力、遠距離攻撃を 持っています。魔法防御力には欠けますが マスターとしての素質は十分です。	You excel at ranged attacks, speed, and movement, yet suffer from low defenses. You possess great potential.
+0x162C34	あなたは特に秀でた能力はありませんが、 弱点もありません。その弓は役立つでしょう。 マスターとしての素質は十分です。	You excel at nothing, being one with balanced traits. That bow makes you quite deadly. You possess great potential.
+0x162CA8	あなたは攻撃力、防御力、素早さ、移動力に 優れています。魔力は劣っていますが マスターとしての素質は十分です。	You excel at attacking, defending, and can move quickly, yet your magic is weak. You possess great potential.
+0x162D18	あなたは素早さや移動力に優れています。 防御力や魔力は劣っていますが マスターとしての素質は十分です。	You excel at movement and speed, yet your defenses and magic are lacking. You possess great potential.
+0x162D80	あなたは魔力に長けています。 防御力、魔法防御に欠けますが マスターとしての素質は十分です。	You excel at magical attacks, yet you lack proper defenses. You possess great potential.
+0x162DDC	あなたは魔力、魔法防御に優れます。 素早さに劣るという欠点はありますが マスターとしての素質は十分です。	You excel at all magic and defending, yet you have weak attack and speed. You possess great potential.
+0x162E44	あなたは高い魔力に恵まれています。 低い素早さや防御力、移動力が欠点ですが マスターとしての素質は十分です。	You excel at magic, yet your low defense, speed, and movement is dangerous. You possess great potential.
+0x162EB0	あなたは魔力に優れています。 防御力、素早さは低めですが、 マスターとしての素質は十分です。	You excel at magic, yet you have low defense and speed. You possess great potential.
+0x162F0C	あなたはバランスの取れた能力を持って います。特に欠点となる点はありません。 マスターとしての素質は十分です。	You don't excel at much, having balanced abilities with good attack and defense. You possess great potential.
+0x162F7C	あなたは魔力、移動力に優れます。 欠点は低い防御力ですが、 マスターとしての素質は十分です。	You excel at magic and movement, yet you have low defenses. You possess great potential.
+0x162FD8	あなたは攻撃力、魔力と移動力に優れます。 魔法防御が低いことが欠点ですが マスターとしての素質は十分です。	You excel at attacking, movement, and magic, yet you lack resistance to magic. You possess great potential.
+0x163044	あなたは魔力と魔法防御に優れています。 防御力が低いことが欠点ですが、 マスターとしての素質は十分です。	You excel at magical attack and resistance, yet you lack defense. You possess great potential.
+0x1630AC	あなたは魔法防御と素早さがあります。 攻撃力や防御力には欠けますが マスターとしての素質は十分です。	You excel at speed and resisting magic, yet you are weak physically. You possess great potential.
+0x163110	あなたは攻撃力と素早さに優れます。 やや魔力が低いという欠点はありますが、 マスターとしての素質は十分です。	You excel at fighting at high speeds, yet you struggle with offensive magic. You possess great potential.
+0x16317C	あなたは高い魔力と素早さを持っています。 やや防御力に欠けていますが、 マスターとしての素質は十分です。	You excel at magic and fast movement, yet your defense could be better. You possess great potential.
+0x1631E4	あなたは高い魔力と遠距離攻撃を持ちます。 防御力が低めで素早さに欠けますが、 マスターとしての素質は十分でしょう。	You excel at magic and long-range attacks, yet your defense and speed are lacking. You possess great potential.
+0x163258	あなたは非常に高い魔力と魔法防御を 持っています。物理面は見劣りしますが、 マスターとしての素質は十分です。	You excel at magical attack and resistance, yet you are weak physically. You possess great potential.
+0x1632C4	あなたは平均的な能力を持っています。 防御力は劣りますが、その導力砲は役立つ でしょう。マスターとしての素質は十分です。	You excel at ranged attacks with your cannon, yet your defense could be better. You possess great potential.
+0x16333C	あなたは非常に高い攻撃力・防御力を 持っています。やや魔力に欠けますが、 マスターとしての素質は十分です。	You excel at attacking, defending, and moving, yet your magic is quite weak. You possess great potential.
+0x1633A8	あなたは最強の魔力と、全体的に高い 能力を持ちます。防御力は欠けますが、 マスターとしての素質は十分です。	You excel at magical attacks with overall high stats, yet you lack defense. You possess great potential.
+0x163414	あなたは全体的に高めの能力を持って います。安定した戦い方ができるでしょう。 マスターとしての素質は十分です。	You excel at movement with well-rounded abilities. You should be fine in a fight. You possess great potential.
+0x163484	あなたは全てにおいて、 非常に高い能力を持っています。 マスターとしての素質は十分でしょう。	You excel at everything, even I would not want to fight you. You possess great potential.
+0x1634E4	あなたは非常に高い攻撃・防御・素早さを 持っています。魔力に欠けますが、 マスターとしての素質は十分です。	You excel at attacking, defending, and speed, yet your magical attack is weak. You possess great potential.
+0x163550	あなたは力と無の狭間にたゆたう夢。 ファイターとしてこの世界に導かれました。	As a soul between power and emptiness, you came to this world as a Fighter.
+0x16359C	あなたは夢の実現に注がれる力。 デュークとしてこの世界に導かれました。	As the power to make dreams reality, you came to this world as a Duke.
+0x1635E4	あなたは運命の中の無限の力。 ソードマンとしてこの世界に導かれました。	As the endless power of destiny, you came to this world as a Swordsman.
+0x16362C	あなたは力ある信頼と夢。 ナイトとしてこの世界に導かれました。	As the might of loyalty, you came to this world as a Knight.
+0x16366C	あなたはこの世に希望をもたらす者。 パラディンとしてこの世界に導かれました。	As the bringer of hope to this realm, you came to this world as a Paladin.
+0x1636B8	あなたは闇の中に息づく運命。 シャドウとしてこの世界に導かれました。	As the destined from darkness, you came to this world as a Shadow.
+0x1636FC	あなたは夢と理想を追う希望。 レンジャーとしてこの世界に導かれました。	As the pursuer of hope and ideals, you came to this world as a Ranger.
+0x163744	あなたは運命に立ち向かう存在。 サベージとしてこの世界に導かれました。	As the one who defies fate, you came to this world as a Savage.
+0x16378C	あなたは夢と宿業の狭間に揺れる朧。 シーフとしてこの世界に導かれました。	As the clouds drifting by destiny, you came to this world as a Thief.
+0x1637D4	あなたは美と夢を奏でる虚空。 バードとしてこの世界に導かれました。	As a poet of beautiful tales, You came to this world as a Bard.
+0x163818	あなたはこの世の闇を照らす光。 シスターとしてこの世界に導かれました。	As the light piercing the darkness, you came to this world as a Sister.
+0x163860	あなたは真実を追究する宿業。 ソーサラーとしてこの世界に導かれました。	As one guided to seek the truth, you came to this world as a Sorcerer.
+0x1638A8	あなたは信頼の美しさがもたらす夢。 ウィッチとしてこの世界に導かれました。	As the dream born from a beauty's faith, you came to this world as a Witch.
+0x1638F4	あなたは果てしない信仰の中の無。 モンクとしてこの世界に導かれました。	As a being of boundless devotion, you came to this world as a Monk.
+0x16393C	あなたは存在を信じる夢。 スピリットとしてこの世界に導かれました。	As a dream seeking existence, you came to this world as a Spirit.
+0x163980	あなたは幻夢を知らしめる力。 ビーストとしてこの世界に導かれました。	As the one to shatter illusions, you came to this world as a Beast.
+0x1639C4	あなたは闇を指し示す無。 ナイトメアとしてこの世界に導かれました。	As the void of darkness, you came to this world as a Nightmare.
+0x163A08	あなたは光の中の夢。 フロイラインとしてこの世界に導かれました。	As a vision of the light, you came to this world as a Fraulein.
+0x163A48	あなたは人々に勇気をもたらす光。 ロッドマスターとしてこの世界に導かれました。	As the light that brings courage, you came to this world as a Rod Master.
+0x163A98	あなたは世の闇を砕かんとする牙。 ストライダーとしてこの世界に導かれました。	As the fangs that shatter darkness, you came to this world as a Strider.
+0x163AE4	あなたは美を追求する幻。 プレイボーイとしてこの世界に導かれました。	As a phantom pursuing beauty, you came to this world as a Playboy.
+0x163B28	あなたは力と信頼を知る運命。 プリンセスとしてこの世界に導かれました。	As one with both might and trust, you came to this world as a Princess.
+0x163B70	あなたは果てしない夢を追う者。 テクノクラートとしてこの世界に導かれました。	As one who pursues endless dreams, you came to this world as a Technocrat.
+0x163BBC	あなたは希望を力とする存在。 ヘヴィエッジとしてこの世界に導かれました。	As one who uses hope to fight, you came to this world as a Heavy-Edge.
+0x163C04	あなたは光と闇の狭間にある虚無。 ジーニアスとしてこの世界に導かれました。	As nothingness between light and dark, you came to this world as a Genius.
+0x163C50	あなたは夢と運命を見据える朧。 クインビュートとしてこの世界に導かれました。	As one who foresees the future, you came to this world as a Queen-Bute.
+0x163C9C	あなたは世に真実を問う修羅。 ダークナイトとしてこの世界に導かれました。	As a warrior who seeks truth, you came to this world as a Dark Knight.
+0x163CE8	あなたは無の中の光を知る者。 グラップラーとしてこの世界に導かれました。	As a seeker of light in darkness, you came to this world as a Grappler.
+0x163D30	あなたが選んだのは Shine のカード。 光、明るさ、正義を意味します。	The card you chose is Shine. It signifies clarity, justice.
+0x163D74	あなたが選んだのは Twilight のカード。 薄明かり、不安、中立を意味します。	The card you chose is Twilight. It signifies uncertainty, neutrality.
+0x163DC0	あなたが選んだのは Shade のカード。 影、闇、邪なものを意味します。	The card you chose is Shade. It signifies shadow, darkness, evil.
+0x163E04	あなたが選んだのは Sacred Book のカード。 信仰、敬虔な心、安らぎを表わします。	The card you chose is Sacred Book. It signifies faith, devotion, peace.
+0x163E54	あなたが選んだのは Emblem のカード。 名誉、力、忠誠、戦闘を意味します。	The card you chose is Emblem. It signifies honor, power, loyalty.
+0x163E9C	あなたが選んだのは Fair のカード。 美、名声、執着心を意味します。	The card you chose is Fair. It signifies beauty, fame, obsession.
+0x163EE0	あなたが選んだのは Dream のカード。 幻想、架空を意味します。	The card you chose is Dream. It signifies fantasy, imagination.
+0x163F20	あなたが選んだのは Karma のカード。 現実、運命を意味します。	The card you chose is Karma. It signifies reality, destiny.
+0x163F60	あなたが選んだのは Trust のカード。 信頼、人間関係、思い遣りを意味します。	The card you chose is Trust. It signifies faith, relationships, empathy.
+0x163FAC	あなたが選んだのは Vacant のカード。 無、空虚を意味します。	The card you chose is Vacant. It signifies nothingness.
+0x163FE8	あなたが選んだのは Ego のカード。 自我、自己顕示を意味します。	The card you chose is Ego. It signifies self and individuality.
+0x164028	私は《紫のメルレット》。 ネイティアルマスターと呼ばれる存在です。	Greetings, I am Merlet. I am known as a Natial Master.
+0x16406C	……さて、先ほどの 質問の答えは決まりましたか？	...Now then, do you know what it is you desire?
+0x16409C	そう、強くなりたい、というのですね。 あなたのその望み、 お受けいたしましょう。	Yes, you wish to become stronger, I see. Your desire... I shall grant it.
+0x1640EC	まず、 あなたの事をお聞かせください。	First, tell me about yourself.
+0x164114	あなたの事は、大体分かりました。	I see, so that's who you truly are.
+0x164138	（マスターの説明）	
+0x16414C	それでは基本となる、 ４種のネイティアルを あなたに授けましょう。	Now then, let me bestow upon you four Natials, one of each element.
+0x164190	さあ、参りましょうか。 強くなるために。	Well then, let's begin. For your wish.
+0x1641B8	さらなる強さを求め、 あなたはここへ来たのですね。 	In search of greater strength, you have come here. 
+0x1641EC	あなたのその望み、 お受けいたしましょう。	I shall aid you in fulfilling this wish.
+0x164218	あなたの事は、大体わかりました。	I see, so that's who you truly are
+0x16423C	２４種のネイティアルと、 ６つの魔法。 それら全てをあなたに託します。	Now then, I shall bestow upon you the 24 Natials and 6 magical spells.
+0x164284	それでは参りましょう。 大いなる戦いの場に。	Your greatest challenge awaits. Good luck.
+0x1642B0	【傀儡の独楽】を手に入れた。 操り人形の形をしたコマ。	You obtained the Puppet Top. A marionette-shaped top.
+0x1642E8	絶妙な均衡を保ちながら回転する様は、 見る者に安らぎを与える。 地のネイティアル、パ・ランセルを召喚できる。	It rotates with beautiful balance, bringing peace to those that look at it. It lets you summon Pa-Rancell.
+0x164354	【瓶入りの船】を手に入れた。 いかにして入れたのかは不明だが、 精巧な船の模型が入っている小瓶の置物。	You obtained the Bottled Ship. A small bottle with an exquisitely crafted ship model inside of it.
+0x1643BC	どのように置いても中の小さな船は沈むことなく、 常に安定して浮いているという。 水のネイティアル、レキューを召喚できる。	How it got inside is unknown, but it never sinks or rocks no matter how it is placed. It lets you summon Requ.
+0x164434	【赤銅の大槌】を手に入れた。 神話の時代に鍛えられたと言われる赤銅の大槌。	You obtained the Great Mallet. A copper hammer forged in the age of myth.
+0x164480	鍛冶の神の力が込められており、 振るうと鉄をも熔かす高熱を発するという。 火のネイティアル、ヘピタスを召喚できる。	Imbued with the god of smithing's might, swinging it creates heat that can melt iron. It lets you summon Hepetus.
+0x1644F4	【榊木の笏杖】を手に入れた。 神事を行う時に用いる杖。	You obtained the Sakaki Staff. A sacred ritual relic.
+0x16452C	本来は魔を払うために使われていたもので、 振るうと天の使いが現れるといわれている。 天のネイティアル、ギュネ・フォスを召喚できる。	Originally used to ward off evil spirits, legend says its use calls forth a celestial spirit. It lets you summon Guene-Foss.
+0x1645F4	クラスを選択してください。	Select your Master class.
+0x1646BC	このマスターでよろしいですか？	Continue with this Master class?
+0x164CCC	を召喚	Natial
+0x164CD4	を使える	 Spell
+0x164D04	戦闘を開始します。よろしいですか？	Are you ready to begin the battle?
+0x164D28	対戦相手の準備が完了するまでしばらくお待ちください。	Please wait while your opponent gets ready.
+0x164D60	戦歴に評価されない戦闘です。よろしいですか？	This battle will not count for battle history.
+0x165F28	歩	W1
+0x165F2C	歩(泳)	W2
+0x165F34	泳	S1
+0x165F38	泳(歩)	S2
+0x165F40	飛	Fly
+0x165F44	通常	Normal
+0x165F4C	昼型	Day
+0x165F54	夜型	Night
+0x165F5C	無	N/A
+0x165F60	地	Ert
+0x165F64	水	Wtr
+0x165F68	火	Fir
+0x165F6C	天	Hvn
+0x165F70	攻撃魔法	Offensive
+0x165F7C	回復魔法	Healing
+0x165F88	支援魔法	Support
+0x165F94	隣接	Nearby
+0x165F9C	仰角 大	Angle H
+0x165FA4	仰角 中	Angle M
+0x165FAC	仰角 小	Angle L
+0x165FB4	直線	Direct
+0x165FBC	発生	Genesis
+0x165FC4	目標	Target
+0x165FCC	目標＋周囲 １	Target+AoE 1
+0x165FDC	目標＋周囲 ２	Target+AoE 2
+0x165FEC	周囲 １	Ring 1
+0x165FF4	周囲 ２	Ring 2
+0x165FFC	全体	All
+0x166004	属性	Element
+0x16600C	特性	Type
+0x166014	移動タイプ	Move Type
+0x166038	召喚ＭＰ	Summon
+0x166044	維持ＭＰ	 Maintain
+0x166050	射程	RNG
+0x166058	種類	Type
+0x166060	範囲	Area
+0x166068	消費ＭＰ	MP Cost
+0x166074	無し	None
+0x16607C	レベル	Level
+0x166084	Ｌｖ１	Lv 1
+0x16608C	Ｌｖ２	Lv 2
+0x166094	Ｌｖ３	Lv 3
+0x16609C	明るさ	 Time
+0x1660A4	 明 	Day 
+0x1660AC	薄明	Twil
+0x1660B4	 暗 	Dark
+0x1660BC	最大ＭＰ	Max MP
+0x1660C8	所持ネイティアル無し	No Natial summons
+0x1660D0	魔法リスト	Spell list
+0x1660EC	ユニット情報	Unit Info
+0x1660FC	所持魔法無し	No known spells
+0x16610C	召喚リスト	Summon List
+0x166118	レベル補正	Level Check
+0x166124	明るさ補正	Time of Day
+0x166138	記号	Icon
+0x166140	ひらがな	Hiragana
+0x16614C	カタカナ	Katakana
+0x166158	英数字	English
+0x166160	決定	Select
+0x166168	１文字戻る	Delete
+0x166174	デフォルト	Default
+0x166180	終了	Exit
+0x1661A4	名前を入力してください。	Please enter your name.
+0x1661C0	地のネイティアルを所持していません。	No obtained Earth Natials.
+0x1661E8	水のネイティアルを所持していません。	No obtained Water Natials.
+0x166210	火のネイティアルを所持していません。	No obtained Fire Natials.
+0x166238	天のネイティアルを所持していません。	No obtained Heaven Natials.
+0x1664FC	アップタイド	Uptide
+0x16650C	ダウンタイド	Downtide
+0x16651C	ヴァニッシュ	Vanish
+0x16652C	ブレス	Bless
+0x166534	メディック	Medic
+0x166540	コンジュレート	Transmute
+0x166550	旋風輪	Hurrica
+0x166558	クイックドロウ	Quick Draw
+0x166568	シルフェンウィップ	Sylphen Whip
+0x16657C	オーバルカノン	Orbal Cannon
+0x16658C	サンダー	Thunder
+0x166598	インファーナル	Infernal
+0x1665A8	リカバリー	Recovery
+0x1665B4	キュア	Cure
+0x1665BC	ヒール	Heal
+0x1665C4	シルバリー	Silvery
+0x1665D0	フリーズ	Freeze
+0x1665DC	グレネイド	Grenade
+0x1665E8	エクスプロージョン	Explosion
+0x1665FC	メイルストローム	Maelstrom
+0x166610	ブリッツ	Blitz
+0x16661C	デストラクション	Destruction
+0x166630	アイスバーン	Black Ice
+0x166640	傀儡の独楽	Puppet Top
+0x16664C	操り人形の形をしたコマ。 絶妙な均衡を保ちながら回転する様は、 見る者に安らぎを与える。 地のネイティアル、パ・ランセルを召喚できる。	A marionette-shaped spinning top. It rotates with beautiful balance, bringing peace. Use it to summon the Earth Natial, Pa-Rancell.
+0x1666D0	静寂の埴輪	Mute Haniwa
+0x1666DC	古墳時代に作られた、口の無い巨人像。 土と同化しており、本来の姿を保っているのは 永く地中に埋まっていたために 地脈の影響を受けたからといわれている。 地のネイティアル、ダ・カームを召喚できる。	A giant statue without a mouth, created in a bygone era. Its form has been maintained from it being buried, infusing it with the planet's energy. Use it to summon the Earth Natial, Da-Colm. 
+0x16679C	勝利の鉢巻	Winner Band
+0x1667A8	古のまじない師が魔力を込めた鉢巻。 これを身に付けると勝利を呼ぶと伝えられる。 しかしその魔力の反動により、 その勝利と同規模の不幸をも運ぶといわれている。 地のネイティアル、エ・フェリオンを召喚できる。	An ancient shaman's headband imbued with magic. It is said wearing it guarantees victory, but you will suffer misfortune equal in scale to your victory. Use it to summon the Earth Natial, Ae-Ferrion.
+0x166874	神々の木像	Wood Statue
+0x166880	異教の神を象った木像。 この神は魔神として畏怖の対象であったようだ。 複数の頭部を組み合わせた形状になっており、 手足はついていない。 地のネイティアル、ギア・ブロを召喚できる。	A wooden statue of a pagan deity. This god seems to have been revered as a fearsome demon. Its form has many heads, but no limbs. Use it to summon the Earth Natial, Gia-Bro. 
+0x166930	祈願の達磨	Wish Daruma
+0x16693C	東方でまじないに使用する小像。 祈願の際に祈りを込めて片眼を描き、 叶った時に残りの眼を描くと伝えられる。 地のネイティアル、ディ・アルマを召喚できる。	A statue for spells in the East. You paint one eye while praying for a wish,  then the other when granted. Use it to summon the Earth Natial, D-Arma.
+0x1669D4	銀の三角錐	Shiny Prism
+0x1669E0	磨きぬかれた銀で造られた三角錐状の置物。 銀は魔力が宿るといい、古来より珍重されてきた。 この置物の反射する光を浴びた者は、 銀のように固まってしまうといわれている。 地のネイティアル、バ・メードを召喚できる。	A triangular pyramid-shaped artifact made from polished silver. Treasured long ago for its magic potential. Those bathed in its light solidify, becoming silver. Use it to summon the Earth Natial, Ma-Gorb.  
+0x166AB0	瓶入りの船	Bottled Ship
+0x166ABC	いかにして入れたのかは不明だが、 精巧な船の模型が入っている小瓶の置物。 どのように置いても中の小さな船は沈むことなく、 常に安定して浮いているという。 水のネイティアル、レキューを召喚できる。	-Removed first letter due to Bottled Ship's string length (see note)- A small bottle with an exquisitely crafted ship model inside. How it got inside is unknown, but it never sinks or rocks no matter how it is placed. Use it to summon the Water Natial, Requ.  
+0x166B7C	青銅の亀甲	Brass Shell
+0x166B88	年輪を経た大亀は、 魔力を持つようになるといわれる。 その中でも特に強大な魔力を持つものは、 甲羅が青銅で出来ていると伝えられる。 それを持つ者は、大亀の魔力を引き出せるという。 水のネイティアル、ネプトジュノーを召喚できる。	It is said ancient giant turtles that live a long life possess magic. Those with formidable power have shells made of brass, which can be unleashed by those wielding the shell. Use it to summon the Water Natial, Neptjuno.
+0x166C68	鉛色の巻貝	Lead Conch
+0x166C74	表面が鉛色の、重たい巻貝。 昔から船乗りの間では、海難を避けるためには 巻貝を身に着けるとよいとされてきた。 鉛色は嵐の空を示しているという。 水のネイティアル、ターブスを召喚できる。	A heavy conch shell with a lead surface. A sailor legend says wearing one wards off maritime disasters. Its leaden hue represents storms. Use it to summon the Water Natial, Tarbyss.
+0x166D2C	流氷のひれ	Glacier Fin
+0x166D38	決して溶けることのない、魚のひれの形をした氷。 古い言い伝えによると、 氷の魔神が邪鬼にそそのかされ、 自らを凍らせてしまったものだとされている。 水のネイティアル、ザミルペンを召喚できる。	An ice formation shaped like a fish fin that never melts. It is said to be an ice demon god, who froze himself after being tempted by spirits. Use it to summon the Water Natial, Zamilpen.
+0x166DF4	潤いの真珠	Dew Pearl
+0x166E00	見かけは普通の真珠と変わらないが、 海水を湧き出すことがある。 この真珠は人魚の涙が変化したもので、 真夜中に人知れず泣いているのだという。 水のネイティアル、マームを召喚できる。	Although it looks ordinary, it sometimes spews seawater. These pearls are said to be made from the tears of mermaids, weeping at night. Use it to summon the Water Natial, Marme.
+0x166EB4	大海の星砂	Ocean Sand
+0x166EC0	南方には、星型の砂で出来た砂浜がある。 その地域の海底には巨大な海獣が潜んでおり、 それが起こした渦に岩が巻き込まれ、 複雑に削られた末に その砂になったといわれている。 水のネイティアル、テンタークを召喚できる。	It is said a sea monster lurks in the ocean near a star-shaped beach to the south. It makes whirlpools that erode rocks into complex shapes, and then into this sand. Use it to summon the Water Natial, Tentarch.
+0x166F94	赤銅の大槌	Great Mallet
+0x166FA0	神話の時代に鍛えられたと言われる赤銅の大槌。 鍛冶の神の力が込められており、 振るうと鉄をも熔かす高熱を発するという。 火のネイティアル、ヘピタスを召喚できる。	-Removed first letter due to Great Mallet's string length (see note)- A copper hammer forged in the age of myth. Imbued with the power of the god of smithing, swinging it can melt iron. Use it to summon the Fire Natial, Hepetus.
+0x167040	猛爆の魔剣	Flame Sword
+0x16704C	通常の剣の数倍の重さがある両手剣。 その重さのため、人が使うことはできない。 魔神が使うと炎を発するといわれる。 火のネイティアル、 オーンヴィーヴルを召喚できる。	A two-handed sword of great size. The weight makes it unwieldy for humans. It emits flames when used by a demon lord. Use it to summon the Fire Natial, Oonvievle.
+0x1670F0	幻獣の角笛	Beast Horn
+0x1670FC	幻の聖獣の角から作られた角笛。 旅人のお守りとして珍重される。 身の危険を感じたとき、この角笛を吹くと 聖獣が現れ、救ってくれると伝えられる。 火のネイティアル、ブリックスを召喚できる。	A horn made from a sacred beast's horn. It is treasured as a traveler's talisman, Blowing it while in danger summons the sacred beast to help. Use it to summon the Fire Natial, Blyx.
+0x1671B4	降魔の数珠	Devil Beads
+0x1671C0	赤色の石をつなぎあわせた数珠。 徳の高い僧侶が残したものと伝えられ、 精神力の高い者が持つと、 闇を払い、悪鬼を滅する炎を放つという。 火のネイティアル、ダルンダラを召喚できる。	A rosary made with red stones. It's said to have been made by a virtuous monk. With great spiritual power, it emits flames. Use it to summon the Fire Natial, Dullmdalla.
+0x167270	魔人の灯篭	Fiend Light
+0x16727C	悪魔のレリーフが施されたランプ。 これに明かりを灯すとランプより魔人が現れ、 あらゆる望みを叶えるという。 火のネイティアル、ーノスブリードを召喚できる。	A lamp adorned with a demonic relief. It is said lighting this lamp summons a demon, granting any wish. Use it to summon the Fire Natial, Xenofiend.
+0x167314	白鷹の彫像	Bird Statue
+0x167320	白い鷹の来訪は古来より吉兆とされていたため、 白鷹の像を門柱などに飾る風習があった。 この像は、海に没したという幻の大陸の 神殿の門柱を飾っていたと伝えられている。 火のネイティアル、グリオンを召喚できる。	The arrival of a white hawk has long been seen as a good omen, so many gates have statues depicting them. This statue was from a continent that sank into the sea. Use it to summon the Fire Natial, Greon.
+0x1673EC	目覚めの羽	Awake Plume
+0x1673F8	光沢を放つ小さな羽。 どんなにーい眠りに落ちた者でも、 ただちに起こしてしまう魔力を持つという。 天のネイティアル、ペリットを召喚できる。	These small feathers shine with radiance and are infused with magic that can awaken anyone. Use it to summon the Heaven Natial, Pelitt.
+0x167480	怒りの紋章	Wrath Crest
+0x16748C	神の怒りを表した紋章。 悪徳が世に氾濫した時、神の使いが現れ、 いかづちをもって悪を滅ぼすといわれる。 その神の使いの顔を象ったものだとされている。 天のネイティアル、キュリア・ベルを召喚できる。	When the world is filled with sin, legend says a divine champion will appear to smite evil with lightning. This crest bears that champion's face. Use it to summon the Heaven Natial, Kyria-Bell.
+0x167550	月桂樹の冠	Laurel Band
+0x16755C	古代の競技の勝者に贈られた冠。 これを身に着けると月の守護を受け、 暗闇で能力を発揮できると伝えられる。 また、弓などの命中率が上がるともいわれる。 天のネイティアル、アモルタミスを召喚できる。	A crown given to victors of ancient contests. It is said wearing it improves your skills with the bow. It also gives you the moon's blessing. Use it to summon the Heaven Natial, Amoltamis.
+0x16761C	榊木の笏杖	Sakaki Staff
+0x167628	神事を行う時に用いる杖。 本来は魔を払うために使われていたもので、 振るうと天の使いが現れるといわれている。 天のネイティアル、ギュネ・フォスを召喚できる。	-Removed first letter due to Sakaki Staff's string length (see note)- A staff used during sacred rites. Originally used against demons, wielding it summons a celestial spirit. Use it to summon the Heaven Natial, Guene-Foss.
+0x1676C4	聖護の守印	Sacred Seal
+0x1676D0	聖なる印が刻まれた、黄金のお守り。 刻まれているのは薬剤の神の印といわれ、 これをかざすと傷が癒えると伝えられている。 天のネイティアル、フィフネルを召喚できる。	A golden amulet with a sacred seal. Said to bear the mark of the god of medicine, using it can heal any wound. Use it to summon the Heaven Natial, Fifenall.
+0x167770	終焉の魔書	Dead Scroll
+0x16777C	破滅の言葉が記されているという巻き物。 その言葉を唱えると魔物が現れ、 その者の魂を抜き取って行くといわれている。 天のネイティアル、 レグナ・クロックスを召喚できる。	A scroll containing words of destruction. Legend says reciting this text summons a fiend that will steal your soul. Use it to summon the Heaven Natial, Regna-Croix.
+0x167824	潤水の秘石	Flood Stone
+0x167830	その昔、大干ばつが世界を覆ったとき、 祈祷師が雨乞いのために作り出したとされる石。 願いを込めて天にかざすと、 たちどころに雨雲が現れ大地を潤したという。 水位を上昇させる魔法、 アップタイドを唱えることができるようになる。	Long ago, during a great drought, a shaman supposedly made this stone to pray for rain. When it was held up to the sky, clouds suddenly appeared and moistened the land. It grants the spell to raise the water, Uptide.
+0x16790C	渇水の秘石	Arid Stone
+0x167918	その昔、長雨が続き大地が水没しそうになった時、 祈願師が雲払いのために作り出したとされる石。 願いを込めて天にかざすと、 たちどころに空が晴れ、水が引いたという。 水位を下降させる魔法、 ダウンタイドを唱えることができるようになる。	Long ago, when the world was almost submerged from the storms, a shaman made this stone to dispel the clouds. With fervent prayer, the skies cleared and the water drained away. It grants the spell to lower the water, Downtide.
+0x1679FC	猛滅の魔刀	Demon Blade
+0x167A08	悪魔の力が封じられているという刀。 呪いを込めて敵に刃を向けると、 魔力の刃が敵を突き刺すと伝えられている。 敵に大きなダメ?[ジを与える魔法、 ヴァニッシュを唱えることができるようになる。	A sword said to hold demonic power. If you point this blade at a foe and chant a curse, a magic sword will appear and stab them. It grants the spell to deal major damage, Vanish.
+0x167AC4	祝福の琵琶	Blest Biwa
+0x167AD0	弦が４本の小さな楽器。 その澄んだ音色は、聞く者の心を和ませる。 ネイティアルの体力を回復させる魔法、 ブレスを唱えることができるようになる。	A small four-stringed instrument. The sound of its clear tone soothes the hearts of listeners. It grants the spell to heal Natials, Bless.
+0x167B5C	還元の小像	Heal Statue
+0x167B68	乳白色の石で造られた天使の小像。 この石に触れると、 穏やかな安息が得られるという。 行動不能になったネイティアルを正常に戻す魔法、 メディックを唱えることができるようになる。	A small angel statue carved from white stone. If you touch it, it's said to bring gentle peace. It grants the spell to cure status effects, Medic.
+0x167C18	変化の魔杖	Change Wand
+0x167C24	金の飾りが付いた長い杖。 変化の魔法が込められており、 対象を何でも思うものに 変化させることができるといわれている。 敵を一定時間行動不能にする魔法、 コンジュレートを唱えることができるようになる。	A long staff adorned with gold decorations. Said to be imbued with alteration magic, this lets you change a target into whatever you desire. It grants the spell of immobilization, Transmute.
+0x167CE8	パ・ランセル	Pa-Rancell
+0x167CF8	トップスピン	Topspin
+0x167D08	ダ・カーム	Da-Colm
+0x167D14	トライアサルト	Tri-Assault
+0x167D24	エ・フェリオン	Ae-Ferrion
+0x167D34	アイアンキャノン	Iron Cannon
+0x167D48	ギア・ブロ	Gia-Bro
+0x167D54	レージグランド	Rage Grand
+0x167D64	ディ・アルマ	D-Arma
+0x167D74	ブリットビーンズ	Brit Beans
+0x167D88	バ・メード	Ma-Gorb
+0x167D94	フィアスニードル	Fias Needle
+0x167DA8	レキュー	Requ
+0x167DB4	バブルスプリット	Bubble Split
+0x167DC8	ネプトジュノー	Neptjuno
+0x167DD8	トリスーラスタブ	Trishula Stab
+0x167DEC	ターブス	Tarbyss
+0x167DF8	アイスショット	Ice Shot
+0x167E08	ザミルペン	Zamilpen
+0x167E14	ベリーアタック	Belly Attack
+0x167E24	マーム	Marme
+0x167E2C	スコールドヒット	Scalding Blow
+0x167E40	テンターク	Tentarch
+0x167E4C	ブルプレッシャー	Bull Pressure
+0x167E60	ヘピタス	Hepetus
+0x167E6C	ストライクホット	Strike Hot
+0x167E80	オーンヴィーヴル	Oonvievle
+0x167E94	インセーンクロー	Inseinclaw
+0x167EA8	ブリックス	Blyx
+0x167EB4	ラピッドファイア	Rapid Fire
+0x167EC8	ダルンダラ	Dullmdalla
+0x167ED4	テラーフェイス	Terror Face
+0x167EE4	ゼノスブリード	Xenofiend
+0x167EF4	スパイラルソード	Spiral Sword
+0x167F08	グリオン	Greon
+0x167F14	ダイビングビーク	Diving Beak
+0x167F28	ペリット	Pelitt
+0x167F34	ライトスクラッチ	Light Scratch
+0x167F48	キュリア・ベル	Kyria-Bell
+0x167F58	サンダーブレード	Thunder Blade
+0x167F6C	アモルタミス	Amoltamis
+0x167F7C	ナイトランチャー	Night Launcher
+0x167F90	ギュネ・フォス	Guene-Foss
+0x167FA0	クインズラッシュ	Queen's Rush
+0x167FB4	フィフネル	Fifenall
+0x167FC0	ジャッジメント	Judgement
+0x167FD0	レグナ・クロックス	Regna-Croix
+0x167FE4	ジレートバッシュ	Gear Bash
+0x1680D4	《アップタイド》 ２時間、水位を上昇させる支援魔法です。 重ねがけすると、持続時間はリセットされます。 減水中の場合は、その効果を打ち消します。	《Uptide》 Raises water level for 2 hours. Casting it again resets the duration. This effect is canceled if Downtide is cast.
+0x168164	《ダウンタイド》 ２時間、水位を下降させる支援魔法です。 重ねがけすると、持続時間はリセットされます。 増水中の場合は、その効果を打ち消します。	《Downtide》 Lowers water level for 2 hours. Casting it again resets the duration. This effect is canceled if Uptide is cast.
+0x1681F4	《ヴァニッシュ》 敵一体に大ダメージを与える攻撃魔法です。 効果は詠唱者の魔力や目標の魔法防御に 左右されます。射程３の発生型魔法です。	《Vanish》 A magic sword appears and stabs an enemy. Damage is based on INT and target's MGR. This spell has a range of 3.
+0x16827C	《ブレス》 味方の全ネイティアルのＨＰを１ポイントずつ 回復させる魔法です。ユニットとの距離は 無関係で、マップ全体に影響を及ぼします。	《Bless》 Restore 1 HP to all of your Natials. This spell has no range limit.
+0x168304	《メディック》 行動不能（金化・銀化・凍結）に陥ったユニットを 正常に戻す支援魔法です。ペリットの持つ メディックと異なり、射程３の発生型魔法です。	《Medic》 Return a target to normal that was solidified with magic. This spell has a range of 3.
+0x168398	《コンジュレート》 敵１体を金属に変化させる支援魔法です。 詠唱者の魔力によって効果時間が異なります。 射程３の発生型魔法です。	《Transmute》 Solidify a target and those around them. The duration is based on your INT. This spell has a range of 3.
+0x168418	魔法を所持していません。	I don't know magic.
+0x168434	強敵を求め、さすらう女戦士。 攻撃力・防御力・素早さが高く 手堅い戦士型マスターと言える。 その分魔力は低い。接近戦では、 強力な跳び蹴りが頼りになるだろう。	A wandering female warrior hoping to find formidable foes. Has high attack, defense, and speed, but low magic. Excels at close combat with flying kicks.  
+0x1684D0	野望に燃える若き公爵。 高い魔力と素早さを両立した魔力型 マスター。防御面は見劣りし、 移動力が３しかないのが弱点だ。 突剣による隣接攻撃が可能。	A young duke with burning ambition. Strong with his magic and speed, but has low defense and movement. Attacks with elegant sword thrusts.    
+0x168560	流れるままに生きる漂泊の剣客。 攻撃力が高く、魔力も高めの バランス型マスターと言える。 弱点は低めの防御力か。強力な 隣接攻撃・居合い斬りを持つ。	A wandering swordsman that lives with the flow. Has high attack and decent magic, but low defense. His sword skills make him a deadly opponent. 
+0x1685F4	ほまれ高き忠義の老騎士。 攻撃力・防御力が最強であり、 非常に固い戦士型マスタ?[だ。 魔力・素早さに欠けるのが欠点。 ランスによる隣接攻撃が可能。	A loyal and venerable knight. He's sturdy with his high attack and defense, but his magic and speed is lacking. Attacks his foes with a lance.
+0x168684	闇を討ちはらう聖騎士。 聖騎士らしく、攻撃力・魔力が高い 魔力型マスターだ。防御面も優秀で 隙が無いが、非常に遅いのは難点。 聖剣による隣接攻撃が可能。	A holy knight that vanquishes darkness. A natural warrior with high attack, magic, and defense, but extremely slow. Uses a holy sword to do battle. 
+0x16871C	光に焦がれる影の眷族。 素早さと移動力が高く、典型的な 機動型マスターと言える。 防御力・魔法防御は低いため注意。 手裏剣は射程４の遠距離攻撃だ。	A child of darkness, yet yearns for the light. Great mobility with his speed and movement, but flimsy defenses. His shuriken attack range is 4.
+0x1687AC	?[き森の護人（まもりびと）。 平均的な能力を持つバランス型 マスター。ただし手にした弓は射程が ６あり、全マスタ?[中最高クラスだ。 高所を取れば有利だろう。	A guardian of the forest. Balanced with average stats. Uses a bow to attack with a range of 6 to fight from far away. Dangerous when atop high ground.  
+0x168848	復讐心に燃える猛き蛮人。 素早く、移動力が５ある戦士型 マスターで攻撃力・防御力も 非常に高い。ただし魔力は最弱だ。 射程４の岩投げ攻撃が可能。	A fierce barbarian of vengeance. Menacing with his high attack, defense, and movement, but he has poor magic. Throws rocks with a range of 4.
+0x1688D8	果てぬ夢を追いつづける盗賊。 非常に素早く、移動力は６ある。 機動力は最高のマスターだ。 ただし防御や魔力は低い。 投げナイフの射程は５、中々便利だ。	A thief that pursues a hopeless dream. Fast, with great movement, but suffers from low defenses and magic. His throwing knives have a range of 5. 
+0x16896C	希望の歌を紡ぎだす吟遊詩人。 魔力が高めの魔力型マスタ?[で、 素早さもある。だが防御面は 貧弱なため、十分注意しよう。 歌による隣接攻撃は弱いだろう。	A bard who weaves songs of hope. Has high magic and decent agility, but poor defense. Attacks foes with song, but it doesn't hurt much.           
+0x168A00	神に選ばれし清らかなる乙女。 魔力・魔法防御が高めの魔力型 マスターで、防御面も優秀だ。 欠点は非常に遅いこと。 メイスによる隣接攻撃は弱い。	A pure maiden chosen by the gods. Excels with magic and defenses, but suffers from low speed. Uses a mace, however her attacks are weak.  
+0x168A8C	真理を探究する魔法使い。 全マスター中最高クラスの魔力を 誇る魔力型マスター。遅いことと、 防御力・移動力が低いのが弱点。 杖による隣接攻撃は非常に弱い。	A wizard seeking the truth. Has powerful magic abilities, but low defense, speed, and movement. Attacks foes with a staff, but his strikes are weak.  
+0x168B24	偉大なる秘術に憧れる魔女見習い。 高い魔力を持つ魔力型マスターで、 マスターとしては理想的である。 ただし防御面は弱いので注意。 杖による隣接攻撃もかなり弱い。	An apprentice witch who desires the arcane arts. An ideal master with high magic abilities, but has low defense. Her staff attacks are insignificant.       
+0x168BC4	武術を通じて己を高める修行僧。 平均的な能力を持つバランス型 マスターだが、攻撃力・防御力も そこそこあり、接近戦も可能だ。 気合を使った隣接攻撃が可能。	A monk that trains in martial arts for self-improvement. Has balanced stats with great attack and defense. Fights using chi in close combat.          
+0x168C5C	神秘のヴェールに包まれた可憐 なる精霊。高い移動力を持つ機動型 マスターで、魔力もある。ただし 防御力は最弱なので注意。豊かな 髪による隣接攻撃も威力は皆無だ。	A gentle spirit shrouded in mystery. Able to move quickly and cast strong magic, but is quite fragile. Uses their hair to attack, but it is devoid of strength.
+0x168CFC	孤高の魂をもつ半獣人。 移動力が高いバランス型マスターで 物理面も優秀だ。反面魔法防御は 最弱。前線に出過ぎるのは危険だ。 長剣による隣接攻撃が可能。	A half-beast with a solitary nature. Has balanced stats with high attack and mobility, but is lacking magic resistance. Fights using a longsword. 
+0x168D90	闇を統べる夢魔の帝王。 最強の魔法防御を誇るバランス型 マスターだ。防御力は低く前線には 出にくいが、切込みは無効化し易い。 真紅の魔剣での隣接攻撃が可能。	The emperor reigning over darkness. Balanced with high magic resistance, but quickly falls to physical attacks. He wields a crimson demonic blade.      
+0x168E2C	刺激を求める気まぐれなお嬢様。 魔法防御・素早さが高めの機動型 マスターで、魔力も悪くない。接近戦 は苦手だが、柔軟な戦い方が出来る。 ポカポカと殴る攻撃が一応可能。	An impulsive lady seeking thrills. Has great movement, speed, and magic resistance, but is bad at close combat skirmishes. She fights using her fists.
+0x168ED0	リベール王国出身の正遊撃士。 攻撃力・機動力に優れた戦士型 マスタ?[で、防御力も中々優秀だ。 ただし魔力は若干低め。 棒術を使った隣接攻撃が可能。	A Bracer from the Liberl Kingdom. She can outshine with her physical skills and movement, but lacks strong magic. She fights using a bo staff
+0x168F60	琥珀の瞳に影を秘めた少年。 魔力と高い素早さを両立した機動型 マスターで、攻撃力も高い。防御力は やや低めなため、注意が必要だろう。 双剣による隣接攻撃が可能。	An amber-eyed boy hiding in the shadows. Has good mobility combined with strong attack, magic, and speed, but low defense. Fights using his dual blades.    
+0x169000	美を追求する自称・旅の演奏家。 高い魔力と遠距離攻撃を持つ魔力型 マスターだが、接近戦には不向きだ。 どうやら肉体労働は苦手らしい。 銃の射程は６、威力も悪くない。	A self-proclaimed traveling performer in search of beauty. A Master with strong magic abilities, but ill-suited for close combat. His gun has a range of 6.
+0x1690A4	素性を隠して学園に通う姫。 高い魔力と魔法防御を持つ魔力型 マスターで、魔法攻撃はほぼ無効化で きる。一方物理面はやや見劣りする。 細剣による隣接攻撃が可能。	A princess hiding her identity while attending school. Lacks physical aptitude, but has high magical attack and resistance. Can fight using a rapier.
+0x169140	メカをこよなく愛する少女。 平均的な能力を持つバランス型 マスターだが、射程８・仰角大の攻撃 を持っておりある意味脅威と言える。 防御面は壊滅しているため注意。	A girl who adores machinery. She has average stats, but uses an orbal cannon with a range of 8. While a threat from far away, she is weak to physical attacks.
+0x1691E0	重剣を携える無骨な遊撃士。 最強の攻撃・防御を備える戦士型 マスターだ。代償として魔力は低め。 機動力も高く、前線に出て戦えるだ ろう。重剣による隣接攻撃は強力だ。	A rugged Bracer wielding a heavy sword. He's a warrior-type Master with high attack, defense, and movement. As a trade-off, he has low magical attack.
+0x169284	黒ウサギを抱く謎の美少女。 ずば抜けた魔力を始め、全体的に 高い能力を誇る魔力型マスターだ。 唯一の弱点は、最弱クラスの防御力。 大鎌による隣接攻撃が可能。	A mysterious child cradling a black rabbit. She boasts incredible magic abilities, but her defense is among the lowest. She fights her foes with a scythe.
+0x169320	《銀閃》の渾名を持つ遊撃士。 全ての能力値が高めのバランス型 マスターだ。機動性は非常に優秀で、 常に安定した戦いを展開できる。 鞭を使った隣接攻撃が可能。	A Bracer called the Silver Streak. She has well-rounded stats with high mobility to quickly rush around the battlefield. She fights with a barbed whip.
+0x1693BC	独り修羅の道を歩む《剣帝》。 全能力値が高い反則マスターで、 正に隙なし。ただしその分、基本を 疎かにするとしっぺ返しを喰らう。 初心者は手を出さぬ方が良い。	The Sword Emperor, he walks a path of solitary battle. He's a Master of unfair tactics with high stats. Beginners should stay away from fighting him.
+0x169458	世にネイティアルを伝える魔女。 絶大な魔力を誇る魔力型マスターで 全体的にも軒並み高い能力値を持ち これといった弱点が見当たらない。 杖による隣接攻撃も、侮れない威力。	A sorceress spreading knowledge about the Natials. She focuses on magical attack and has high overall stats. She battles using a staff with dangerous potential.
+0x169500	最強のマスターと呼ばれる男。 高い攻撃力と魔力を備える万能 マスターで、接近戦・召喚合戦共に 得意だ。唯一の弱点は魔法防御か。 長剣の切れ味は最強クラスのものだ。	The man believed to be one of the strongest Masters. He's versatile with high attack, magic, and decent magic resistance. His longsword is quite deadly.
+0x1695A0	東方からやってきた巨漢の武人。 鉄壁の防御を誇る戦士型マスターで 攻撃力・素早さも非常に優秀だ。 正に神速の攻めが行えるだろう。 ただし魔力は低く、お情け程度。	A giant warrior from the east. He has ironclad defense, with good attack and speed, but weak magic. His fists can be devastating when fighting in close combat.
+0x169640	《ファイター》 攻撃・防御・素早さの高い戦士型マスターです。 その分、魔力・魔法防御は低めです。 隣接した相手に強力な跳び蹴りを放ちます。	《Fighter》 A Master with high attack, defense, and speed, but low magic attack and resistance. She attacks with flying kicks.
+0x1696C8	《デューク》 魔力・素早さが高い魔力型マスターです。 移動力が３しかないのが難点です。 隣接した相手を突剣で攻撃します。	《Duke》 A Master with strong magic and speed. However, his movement is quite low. Attacks with sword thrusts.
+0x169740	《ソードマン》 攻撃・魔力が高めのバランス型マスターです。 防御力が低いのが弱点と言えます。 隣接した相手に居合い斬りを放ちます。	《Swordsman》 A Master with powerful attacks and magic. His low defense is his weakness. Attacks with deadly sword techniques.
+0x1697C0	《ナイト》 最強の攻撃・防御を持つ戦士型マスターです。 魔力は低めで、素早さに欠けるのが欠点です。 隣接した相手にランスで突撃します。	《Knight》 A Master with great attack and defense. However, he has weak magic and low speed. Attacks by charging with a lance.
+0x169844	《パラディン》 攻撃・魔力が高い魔力型マスターです。 防御面も優秀ですが、遅いことが弱点です。 隣接した相手を聖なる剣で攻撃します。	《Paladin》 A Master with high attack and defense, along with strong magic, but also very slow. Attacks with a holy sword.
+0x1698C8	《シャドウ》 素早さと移動力が高い機動型マスターです。 防御力・魔法防御が低いのが弱点です。 射程４の手裏剣攻撃を持っています。	《Shadow》 A master with high speed and movement. Has low defense and magic resistance. His shuriken attack has a range of 4.
+0x169948	《レンジャー》 平均的な能力を持つバランス型マスターです。 特に秀でた点も弱点もありませんが、弓は 射程が６もあり、全マスター中最高クラスです。	《Ranger》 A balanced Master with average abilities. While they don't have any strengths or weaknesses, their bow has a range of 6.
+0x1699D8	《サベージ》 素早く、移動力が５ある戦士型マスターです。 高い防御力を持ちますが、魔力は最弱です。 投げる岩は射程が４、強力な遠距離攻撃です。	《Savage》 A Master with high attack, defense, and movement, but he has weak magic. Throws rocks at enemies with a range of 4.
+0x169A64	《シーフ》 最高の機動力を持つ機動型マスターです。 防御面と魔力が低いのが大きな弱点です。 射程５の投げナイフを持っています。	《Thief》 A Master with great speed and movement. Has low defense and weak magic. His throwing knifes have a range of 5.
+0x169AE0	《バード》 魔力と素早さが高めの魔力型マスターです。 防御力・魔法防御が低いのが弱点です。 歌による隣接攻撃も、あまり威力がありません。	《Bard》 A Master focusing on magic and speed. Has low defense and magic resistance. Attacks with song, but it lacks power.
+0x169B68	《シスター》 魔力・魔法防御が高めの魔力型マスターです。 防御力もありますが、遅いのが欠点です。 メイスによる隣接攻撃は、威力がありません。	《Sister》 A Master with strong magic and resistance. While she has good defense, she lacks speed. Attacks with a mace, but it is weak.
+0x169BF4	《ソーサラー》 強大な魔力を誇る魔力型マスターです。 防御力・移動力が低く、遅いことが弱点です。 杖による隣接攻撃も、効果が望めません。	《Sorcerer》 A Master with very powerful magic. Has low defense, speed, and movement. He attacks with a staff, but it is quite weak.
+0x169C7C	《ウィッチ》 非常に高い魔力を持つ魔力型マスターです。 防御力が低く、若干遅いのが欠点です。 杖による隣接攻撃も、あまり威力がありません。	《Witch》 A Master with high magical attack. However, she has low defense and movement. She can attack with a staff for low damage.
+0x169D04	《モンク》 平均的な能力を持つバランス型マスターです。 攻撃力・防御力は高めで、接近戦も可能です。 隣接した相手を気合で攻撃します。	《Monk》 A Master with balanced abilities, along with great attack and defense. Can attack nearby foes by using his chi.
+0x169D88	《スピリット》 魔力と機動力が高い機動型マスターです。 最弱の防御力が弱点です。豊かな髪による 隣接攻撃も、威力は微々たるものです。	《Spirit》 A Master with strong magic and high movement. Their defense is dangerously low. Attacks with their hair for low damage.
+0x169E0C	《ビースト》 移動力が５あるバランス型マスターです。 物理面も優秀ですが、魔法防御は最弱です。 隣接した相手を長剣で攻撃します。	《Beast》 A Master with balanced abilities, good attack and movement, but low magic resistance. Attacks by using a longsword.
+0x169E8C	《ナイトメア》 魔法防御が最強のバランス型マスターです。 他の能力も優秀ですが、防御力は最弱です。 隣接した相手を真紅の魔剣で攻撃します。	《Nightmare》 A Master with high magic resistance and balanced abilities, but has low defense. Attacks with a crimson demonic blade.
+0x169F14	《フロイライン》 魔法防御・素早さが高い機動型マスターです。 防御力は低めですが、魔力は悪くありません。 ポカポカ殴りつける攻撃も、威力は程々です。	《Fraulein》 A Master with high magic resistance, speed, and movement, but lacks defense and magic. Attacks using her fists for rapid punches.
+0x169FA8	《ロッドマスター》 攻撃力・機動力の高い戦士型マスターです。 防御力も優秀ですが、魔力は若干低めです。 隣接した相手を棒術で叩きのめします。	《Rod Master》 A Master with great attack and movement. While her defense is high, her magic is weak. Attacks using a bo staff.
+0x16A034	《ストライダー》 高い魔力と機動性を持つ機動型マスターです。 攻撃力も高い一方、防御力はやや低めです。 手にした双剣で隣接した相手を攻撃します。	《Strider》 A Master with superb attack, magic, speed, and movement, but he has weak defense. Attacks using dual blades.
+0x16A0C4	《プレイボーイ》 遠距離攻撃を備えた魔力型マスターです。 素早さは見劣りしますが、手にする銃は射程６、 威力も悪くありません。低い防御力が弱点です。	《Playboy》 A Master with powerful magic. However, he has low speed and defense. Attacks with a gun that has a range of 6.
+0x16A158	《プリンセス》 非常に高い魔力を有する魔力型マスターです。 物理面は低めですが、魔法防御は非常に 優秀です。細剣で隣接した相手を攻撃します。	《Princess》 A Master with strong magic and resistance. Her weakness is low physical stats. Attacks with a rapier.
+0x16A1E4	《テクノクラート》 平均的な能力を持つバランス型マスターです。 攻撃「オーバルカノン」は射程８・仰角大で威力 も十分です。ただし防御面は壊滅しています。	《Technocrat》 A Master with balanced abilities, but her low defense makes her bad at close combat. Uses an Orbal Cannon with a range of 8.
+0x16A27C	《ヘヴィエッジ》 最強の攻撃・防御を持つ戦士型マスターです。 機動力も非常に優秀ですが、魔力は低めです。 隣接した相手に背中の重剣を叩きつけます。	《Heavy-Edge》 A Master with excellent attack, defense, and movement, but his magic is weak. Attacks using a greatsword.
+0x16A30C	《ジーニアス》 ずば抜けた魔力を持つ魔力型マスターです。 ほぼ万能と言えますが、唯一防御が弱点です。 隣接した相手を巨大な大鎌で刈り取ります。	《Genius》 A Master with exceptional magic and balanced stats, but her defense is quite low. Slaughters anyone with her giant scythe.
+0x16A398	《クインビュート》 全ての能力が高めのバランス型マスターです。 特に機動力が高く、安定した戦いを展開します。 手にした鞭で隣接した相手をしばき倒します。	《Queen-Bute》 A Master with above average abilities. She's great at moving around the battlefield. Attacks using her trusty whip.
+0x16A430	《ダークナイト》 全能力値が非常に高い反則マスターです。 唯一弱点があるとすれば、その高すぎる 能力値でしょう。驕りは油断につながります。	《Dark Knight》 A Master with unrivaled capabilities. His only potential weakness is carelessness. Attacks with his sword, Kernviter.
+0x16A4B8	《ソーサレス》 絶大な魔力を誇る魔力型マスターです。 全体的にも軒並み高い能力値を持ちます。 杖を使った隣接攻撃も、威力は侮れません。	《Sorceress》 A Master that focuses on magical attack. She possesses high overall stats, so don't underestimate her attacks either.
+0x16A53C	《タイラント》 高い攻撃力と魔力を備える万能マスターです。 全ての能力が高く、魔法防御も平均以上です。 機動力もあり、正に覇者に相応しい風格です。	《Tyrant》 A Master with deadly potential. Both his attacks and magic are strong, but his other stats are pretty high as well.
+0x16A5CC	《グラップラー》 驚異的な防御力を持つ戦士型マスターです。 攻撃・機動力も非常に高く、正に神速の攻めが 行えます。ただし魔力は低く、お情け程度です。	《Grappler》 A Master with impressive defense. His attack and movement are also excellent. His magic is quite weak, almost worthless.
+0x16A660	《パ・ランセル》 基本的な地のネイティアルです。 機動力があり、魔晶石占領にも役立つでしょう。 防御力は低く、火属性にも注意が必要です。	《Pa-Rancell》 A basic Earth Natial. High movement, great for capturing crystals. Has low defense, so be careful of attackers.
+0x16A6E8	《ダ・カーム》 魔法はありませんが、攻撃力・防御力ともに 地のネイティアルでは最高クラスに入ります。 移動範囲が広く、水中へ入れるのも特徴です。	《Da-Colm》 An Earth Natial with great attack and defense, but it has no magic. Has great movement and can swim.
+0x16A778	《エ・フェリオン》 遠距離攻撃できる地のネイティアルです。 弓は仰角大で、高所からは射程が延びます。 水には入れず、ＯＡが長いことが欠点です。	《Ae-Ferrion》 An Earth Natial capable of ranged attacks. Has increased range with elevation, but it cannot enter water and is quite slow.
+0x16A804	《ギア・ブロ》 地属性では唯一攻撃魔法を持っています。 動きが遅いですが、魔法は遠方の広範囲に ダメージを与えます。水中にも進入可能です。	《Gia-Bro》 An Earth Natial with offensive magic that has long range and hits surrounding tiles. While slow, it can be in the water.
+0x16A88C	《ディ・アルマ》 回復魔法を持つ、地のネイティアルです。 少回復ながら移動範囲が広く、重宝します。 昼型の為、昼や明るい場所では強くなります。	《D-Arma》 An Earth Natial with healing magic. While weak, its mobility makes it useful. It becomes stronger during daytime.
+0x16A918	《バ・メード》 飛行できる地のネイティアルです。 長時間敵を固めてしまう魔法を持っています。 夜型の為、夜や暗い場所では強くなります。	《Ba-Mado》 A flying Earth Natial with magic that can temporarily immobilize enemies. It becomes stronger during nighttime.
+0x16A99C	《レキュー》 基本的な水のネイティアルです。 全ネイティアル中で最も素早いものの、水中 以外では僅かしか移動できないのが難点です。	《Requ》 A basic Water Natial. While it has great speed, its weakness is its reduced movement when outside of water.
+0x16AA1C	《ネプトジュノー》 攻守ともに強力な、水のネイティアルです。 非常に素早く、地上での活躍も期待できます。 加えて遠距離攻撃魔法も持っています。	《Neptjuno》 A Water Natial with high attack and defense. With its speed, it works great on land. It also has a long-range attack spell.
+0x16AAA8	《ターブス》 水の中から出られないネイティアルです。 しかし口から発射する弾はかなりの飛距離が あり、水の多い場所では敵を牽制できます。	《Tarbyss》 A Water Natial that can't leave the water. However, its attacks have incredible range, letting it fight from far away.
+0x16AB30	《ザミルペン》 攻撃・防御が高めの、水のネイティアルです。 しばらく敵を固めてしまう魔法を持っています。 昼型の為、昼や明るい場所では強くなります。	《Zamilpen》 A Water Natial with high attack and defense. Its magic immobilizes enemies temporarily. It becomes stronger during daytime.
+0x16ABC4	《マーム》 回復魔法を持つ水のネイティアルです。 味方の援護やマスターのお供に最適です。 夜型の為、夜や暗い場所では強くなります。	《Marme》 A Water Natial with healing magic, letting it support Masters and Natials. It becomes stronger during nighttime.
+0x16AC44	《テンターク》 最も強力な水のネイティアルです。 攻撃・防御・魔力は最高値を誇り、周囲２マスを 巻き込む広範囲攻撃魔法を持っています。	《Tentarch》 A Water Natial boasting the best attack, defense, and magical attack. Its attack spell has a 2 tile area of effect.
+0x16ACC8	《ヘピタス》 基本的な火のネイティアルです。 やや遅いのは難点ですが、攻撃力は高めです。 天属性は勿論、地属性に対しても活躍します。	《Hepetus》 A basic Fire Natial. its powerful attacks make up for its speed. It fights well even against Earth Natials.
+0x16AD4C	《オーンヴィーヴル》 強力な火のネイティアルです。 魔法はありませんが、攻撃力が非常に高いのが 特徴です。地属性に対しても有効でしょう。	《Oonvievle》 A Fire Natial with high attack. Although it has no magic, its strength makes it a formidable opponent.
+0x16ADD4	《ブリックス》 クロスボウを持つ火のネイティアルです。 天属性を追い払うのに有効でしょう。 弓の仰角は小で、高所からは射程が延びます。	《Blyx》 A Fire Natial capable of ranged attacks. Its attack is at a low angle, but its range increases at higher elevations.
+0x16AE58	《ダルンダラ》 強力な魔法を持つ火のネイティアルです。 魔法は自分の周囲１マスを巻き込みます。 夜型の為、夜や暗い場所では強くなります。	《Dullmdalla》 A Fire Natial with offensive magic. Its attack spell affects the tiles around it. It becomes stronger during nighttime.
+0x16AEE0	《ゼノスブリード》 最高クラスの火のネイティアルです。 火では最も素早く、特に弱点もありません。 遠距離攻撃魔法は最長のレンジを誇ります。	《Xenofiend》 A Fire Natial with no weaknesses. It has high speed and its magical attack has incredible range, making it quite deadly. 
+0x16AF68	《グリオン》 飛行できる火のネイティアルです。 移動範囲は最大で、奇襲や占拠に役立ちます。 昼型の為、昼や明るい場所では強くなります。	《Greon》 A flying Fire Natial. Has great movement for capturing crystals. It becomes stronger during daytime.
+0x16AFEC	《ペリット》 攻撃・防御は最弱の、天のネイティアルです。 ただし、唯一状態回復魔法を持つ存在です。 素早い為、占拠やＺＯＣ張りにも活用できます。	《Pelitt》 A weak Heaven Natial. The only unit with status recovery magic. It has great speed to capture crystals.
+0x16B07C	《キュリア・ベル》 高い攻撃力を持つ天のネイティアルです。 魔法も強力で、障害物を無視して一定範囲に ダメージを与えることができます。	《Kyria-Bell》 A Heaven Natial with powerful attacks. Its magic is also strong, capable of ignoring obstacles to hit their target.
+0x16B100	《アモルタミス》 弓を持つ天のネイティアルです。 仰角は中で、高所からは射程が延びます。 夜型の為、夜や暗い場所では強くなります。	《Amoltamis》 A Heaven Natial capable of ranged attacks. Its attack angle is moderate. It becomes stronger during nighttime.
+0x16B180	《ギュネ・フォス》 基本的な天のネイティアルです。飛行可能で、 障害物を無視できる攻撃魔法を持っています。 昼型の為、昼や明るい場所では強くなります。	《Guene-Foss》 A flying Heaven Natial. Its attack spell ignores obstructions. It becomes stronger during daytime.
+0x16B214	《フィフネル》 回復魔法を持つ天のネイティアルです。 戦闘には向きませんが、大回復が可能なため 前線支援やマスターの援護に活躍します。	《Fifenall》 A Heaven Natial with healing magic. While terrible for combat, it's invaluable as support for Masters and Natials.
+0x16B298	《レグナ・クロックス》 最高クラスの天のネイティアルです。 周囲２マスを巻き込む広範囲攻撃魔法を持ち、 戦場では圧倒的な存在感を誇ります。	《Regna-Croix》 A powerful Heaven Natial. Its attack spell has a large area of effect, making it a deadly force on the field.
+0x16B320	《平地》 平坦な場所です。防御効果はありません。 移動タイプが「歩」「歩（泳）」「飛」のユニットは 移動範囲に影響はありません。	《Flat》 Level terrain with no defense bonuses. Units with the W1, W2, or Fly movement type do not get a movement penalty here.
+0x16B3A0	《砂漠》 砂が積もっている場所です。 砂に身体が沈み、移動範囲は狭くなります。 遮るものがないため、防御効果はありません。	《Sand》 Rough terrain that limits your movement. Does not give a defense bonus from attacks.
+0x16B418	《茂み》   ?   防御効果２０％ 背の高い草が茂っている場所です。 草が身を隠すため、防御効果があります。 反面、平地よりも移動範囲は狭くなります。	《Bush》       Defense +20％ A section of tall grass. Provides some protection from attacks. However, your movement is reduced.
+0x16B4A8	《湿地》 常に湿っている場所です。水場とほぼ同じ 特徴を持っていますが、防御効果はありません。 タイド魔法の影響も受けません。	《Marsh》 Perpetually damp terrain with similar characteristics to water. Unaffected by the spells Uptide and Downtide.
+0x16B524	《積雪》 雪が積もっている場所です。 雪に身体が沈み、移動範囲は狭くなります。 遮るものがないため、防御効果はありません。	《Snow》 Deep terrain that reduces your movement. Does not give a defense bonus from attacks.
+0x16B59C	《腐潟》 瘴気が淀んでいる場所です。 留まっていると、毎ターンダメージを受けます。 遮るものがないため、防御効果はありません。	《Swamp》 A place covered in stagnate miasma. Units standing here lose 3HP each turn. Provides no defense bonuses.
+0x16B618	《水面板》 水面に足場が浮いている場所です。 水位が変化すると、連動し高さが変化します。 移動範囲などは、通常の平地と同じです。	《Floating》 A water tile covered by solid matter. Rises and falls with the water level. Movement is the same as flat terrain.
+0x16B698	《水（水ー１）》   ?   防御効果１０％ 人が完全に水没する水かさがある場所です。 水が衝撃を緩和する為、防御効果があります。 泳げないユニットは侵入できません。	《Water (Depth 1)》    Defense +10％ Waist-level water, it provides some defense by absorbing part of the impact. Non-swimmers cannot enter water.
+0x16B734	《水（水ー２）》   ?   防御効果２０％ 人が完全に水没する水かさがある場所です。 水が衝撃を緩和する為、防御効果があります。 泳げないユニットは侵入できません。	《Water (Depth 2)》    Defense +20％ Neck-level water, it provides some defense by absorbing part of the impact. Non-swimmers cannot enter water.
+0x16B7D0	《水（水ー３）》   ?   防御効果２５％ 人が完全に水没する水かさがある場所です。 水が衝撃を緩和する為、防御効果があります。 泳げないユニットは侵入できません。	《Water (Depth 3)》    Defense +25％ Water above head-level, it provides some defense by absorbing part of the impact. Non-swimmers cannot enter water.
+0x16B870	《障害物》	《Object》
+0x16B87C	《底無し》	《Pit》
+0x16B888	《魔晶石》   ?   防御効果３０％ 常に輝きを放ち、魔力をもたらす石です。 占拠状態にあると、ＭＰ回復量が増加します。 防御効果があり、毎ターンＨＰが回復します。	《Crystal》      Defense +30％ A glowing stone emitting magical power. When controlled, it increases MP recovery. Also heals a unit standing on it each turn.
+0x16B928	《魔晶石（水ー１）》   ?   防御効果３０％ 常に輝きを放ち、魔力をもたらす石です。 占拠状態にあると、ＭＰ回復量が増加します。 防御効果があり、毎ターンＨＰが回復します。	《Crystal (Depth 1)》      Defense +30％ A glowing stone emitting magical power. When controlled, it increases MP recovery. Also heals a unit standing on it each turn.
+0x16B9D0	《魔晶石（水ー２）》   ?   防御効果３０％ 常に輝きを放ち、魔力をもたらす石です。 占拠状態にあると、ＭＰ回復量が増加します。 防御効果があり、毎ターンＨＰが回復します。	《Crystal (Depth 2)》      Defense +30％ A glowing stone emitting magical power. When controlled, it increases MP recovery. Also heals a unit standing on it each turn.
+0x16BA78	《魔晶石（水ー３）》   ?   防御効果３０％ 常に輝きを放ち、魔力をもたらす石です。 占拠状態にあると、ＭＰ回復量が増加します。 防御効果があり、毎ターンＨＰが回復します。	《Crystal (Depth 3)》      Defense +30％ A glowing stone emitting magical power. When controlled, it increases MP recovery. Also heals a unit standing on it each turn.
+0x16BB20	《壁》	<Wall>
+0x16BC94	方向キーの左右で、 ユーザー設定を切り替えます。 現在、ブルーマスターがユーザー。 レッドマスターがコンピュータです。	Switch the controller of the teams with the D-Pad or analog stick. Blue Master - Player Red Master - Computer
+0x16BD08	方向キーの左右で、 ユーザー設定を切り替えます。 現在、ブルーマスターがコンピュータ。 レッドマスターがユーザーです。	Switch the controller of the teams with the D-Pad or analog stick. Blue Master - Computer Red Master - Player
+0x16BD7C	方向キーの左右で、 ユーザー設定を切り替えます。 現在、ブルーマスター、 レッドマスター共に、ユーザーです。	Switch the controller of the teams with the D-Pad or analog stick. Blue Master - Player Red Master - Player
+0x16BDE8	方向キーの左右で、 ユーザー設定を切り替えます。 現在、ブルーマスタ?[、 レッドマスター共に、コンピュ?[タです。 ※操作の限られる観戦モードです。	Switch the controller of the teams with the D-Pad or analog stick. Blue Master - Computer Red Master - Computer ※You can only spectate this.
+0x16BE78	方向キーの左右で、 チームを切り替えることが出来ます。 現在、あなたがブルーマスター。 レッドマスターが対戦相手です。	Switch teams using the D-Pad or analog stick. You are currently the Blue Master. Your opponent is the Red Master.
+0x16BEEC	方向キーの左右で、 チームを切り替えることが出来ます。 現在、ブルーマスターが対戦相手。 レッドマスタ?[があなたです。	Switch teams using the D-Pad or analog stick. You are currently the Red Master. Your opponent is the Blue Master.
+0x16BF60	敵の思考タイプを切り替えます。 現在、通常タイプです。	Set the enemy's strategy type. Currently set to Normal.
+0x16BF98	敵の思考タイプを切り替えます。 現在、防御軽視タイプです。 ※通常タイプより難易度は低めですが、 　速攻や斬り込みへの注意が必要です。 　また、戦闘評価も下がってしまいます。	Set the enemy's strategy type. Currently set to Offense. ※While this can be easier than Normal, 　expect early battles to happen. 　This also reduces Battle Evaluation.
+0x16C044	ユーザー同士の対戦なので、 思考タイプは設定できません。	Since this is a player-only match, you cannot set this.
+0x16C07C	ユーザーの持ち時間を切り替えます。 現在の設定は、ショート。 考える時間がほとんどないため、 難易度が飛躍的に上がります。 ※戦闘評価には影響しません。	Set the player's turn time limit. Currently set to Short. With little time to think, mistakes will be dangerous. ※Doesn't affect Battle Evaluation.
+0x16C114	ユーザーの持ち時間を切り替えます。 現在の設定は、ミドル。 考える時間があまりないため、 難易度がかなり上がります。 ※戦闘評価には影響しません。	Set the player's turn time limit. Currently set to Medium. Enough time to think out a good plan. ※Doesn't affect Battle Evaluation.
+0x16C1A4	ユーザーの持ち時間を切り替えます。 現在の設定は、ロング。 考える時間が限られるため、 難易度が上がります。 ※戦闘評価には影響しません。	Set the player's turn time limit. Currently set to Long. For those wanting a low-stress timer. ※Doesn't affect Battle Evaluation.
+0x16C22C	ユーザーの持ち時間を切り替えます。 現在の設定は、無制限。 制限時間を気にすることなく、 じっくり戦略を練ることができます。 ※戦闘評価には影響しません。	Set the player's turn time limit. Currently set to Unlimited. Plan your strategy without worrying about the clock. ※Doesn't affect Battle Evaluation.
+0x16C2C4	コンピュータ同士の対戦なので、 持ち時間は設定できません。	Turn time limits cannot be set for computer only matches.
+0x16C300	このマップは既に攻略済みです。	This map is already cleared.
+0x16C3B0	WORLD〜MASINFO : メモリリーク？	WORLD`MASINFO : Memory leak?  
+0x16C3DC	明るさ変動	Normal
+0x16C3E8	常に薄明	Twilight
+0x16C3F4	常に明るい	Day
+0x16C400	常に暗い	Dark
+0x16C40C	入手アイテム：	Clear Reward:
+0x16C430	なし	No reward
+0x16C4A0	対戦を終了してタイトル画面へ戻りますか？	End the match and return to the main menu?
+0x16C4CC	タイトル画面へ戻りますか？	Return to the title screen?
+0x16C5B0	対戦相手に中断データの送信を開始…	Sending suspend data to opponent...
+0x16C5D4	ネットワークモードの中断データが既に存在します。 上書きしてもよろしいですか？	Suspend data already exists for Network Mode. Do you want to overwrite it?
+0x16C624	中断データは保存されませんが タイトルに戻りますか？	Progress will not be saved. Return to title screen?
+0x16C669	未知のエラー	Unknown Error
+0x16C678	接続エラーが発生しました。 タイトル画面へ戻ります。	An error occurred. Returning to title screen.
+0x16C6AC	ワイヤレスＬＡＮ機能が禁止されています。 タイトル画面へ戻ります。	Wireless LAN is disabled. Returning to title screen.
+0x16C6F0	ワイヤレスＬＡＮスイッチがオフになったため、 通信が切断されました。 中断データを保存してタイトル画面へ戻ります。	The wireless LAN has been turned off, so the connection was lost. Saving data and returning to title screen.
+0x16C764	ワイヤレスＬＡＮスイッチがオフになったため、 通信が切断されました。 タイトル画面へ戻ります。 中断データを保存しますか？	The wireless LAN has been turned off, so the connection was lost. You will return to the title screen. Save progress?
+0x16C7DC	ワイヤレスＬＡＮスイッチがオフになったため、 通信が切断されました。 タイトル画面へ戻ります。 中断データを保存しますか？	The wireless LAN has been turned off, so the connection was lost. Returning to title screen.
+0x16C83C	スリープモードに切り替わったため、 通信が切断されました。 中断データを保存してタイトル画面へ戻ります。	The connection was lost from entering sleep mode. Saving data and returning to title screen.
+0x16C8A4	スリープモードに切り替わったため、 通信が切断されました。 タイトル画面へ戻ります。 中断データを保存しますか？	The connection was lost from entering sleep mode. You will return to the title screen. Save progress?
+0x16C914	スリープモードに切り替わったため、 通信が切断されました。 タイトル画面へ戻ります。	The connection was lost from entering sleep mode. Returning to title screen.
+0x16C968	通信が切断されました。 中断データを保存してタイトル画面へ戻ります。	Connection was lost. Saving progress and returning to title screen.
+0x16C9AC	通信が切断されました。 タイトル画面へ戻ります。 中断データを保存しますか？	Connection was lost. Returning to title screen. Save your match progress?
+0x16C9F8	通信が切断されました。 タイトル画面へ戻ります。	Connection was lost. Returning to title screen.
+0x16CA28	対戦相手との接続が解除されました。 中断データを保存してタイトル画面へ戻ります。	Connection was lost. Saving your progress and returning to title screen.
+0x16CA78	対戦相手との接続が解除されました。 タイトル画面へ戻ります。 中断データを保存しますか？	Connection was lost. Returning to title screen. Do you want to save your progress?
+0x16CAD0	対戦相手との接続が解除されました。 タイトル画面へ戻ります。	Connection was lost. returning to title screen.
+0x16CB0C	戦闘を開始します。	Beginning battle.
+0x16CB20	対戦相手が中断データを作成しました。タイトル画面に戻ります。	Opponent created suspend data. Returning to title screen.
+0x16CB60	中断データを作成しました。タイトル画面へ戻ります。	Created suspend data. Returning to title screen.
+0x16CB94	対戦相手がワールドに戻りました。戦闘を終了します。	Opponent returned to the world map. Ending match.
+0x16CBC8	ワールドマップへ戻ります。戦闘を終了します。	End battle and return to the world map.
+0x16CBF8	ワールドマップへ戻ります。	Return to the world map.
+0x16CC14	対戦相手がタイトルに戻りました。対戦を終了します。	Opponent returned to title screen. Ending match.
+0x16CC48	タイトル画面に戻ります。対戦を終了します。	Ending match. Returning to title screen.
+0x16CC74	ネットワークエラー（プロセスの不一致） タイトル画面へ戻ります。	Network error (process mismatch) Returning to title screen.
+0x16CCD0	NetworkProgram : メモリリーク？	NetworkProgram: Memory leak?
+0x16CCF0	対戦相手を募集します。	Looking for opponents.
+0x16CD08	対戦相手を選んで挑戦します。	Select an opponent to fight.
+0x16CD28	決定	Confirm
+0x16CD30	タイトル	Title
+0x16CD3C	承諾	Accept
+0x16CD44	拒否	Decline
+0x16CD4C	中止	Cancel
+0x16CD54	戻る	Back
+0x16CD5C	『%s』さんから対戦を申し込まれました。	You received a match request from %s.
+0x16CD84	承諾する場合は○ボタンを押してください。	To accept, press the Circle button.
+0x16CDB0	拒否する場合は×ボタンを押してください。	To decline, press the X/Cross button.
+0x16CDDC	対戦相手を受付中…	Searching...
+0x16CDF0	しばらくお待ちください。	Please wait.
+0x16CE0C	対戦を申し込み中…	Requesting a match.
+0x16CE20	対戦を承諾されるまでしばらくお待ちください。	Please wait until the match is accepted.
+0x16CE50	申し込みをやめる場合は×を押してください。	To cancel, press the X/Cross button.
+0x16CE7C	ワールドマップ画面に移ります。	Returning to the world map.
+0x16CE9C	%2d.	
+0x16CEA4	《%s》	
+0x16CEAC	現在対戦を募集している人は居ません。	No one is looking for an opponent.
+0x16CED4	ネットワークモードの中断データが見つかりました。 このデータで戦闘を再開しますか？ ※中断データは一度ロードすると削除されます。	Network mode suspend data was found. Use this data to resume the match? ※Data will be deleted after loading.
+0x16CF54	Network.cpp：未初期化でCalcGame！ 	Network.cpp: CalcGame w/o initial 
+0x16CF78	対戦相手の決定を待っています。しばらくお待ちください…	Selecting an opponent. Please wait...
+0x16CFB0	対戦を終了してタイトル画面へ戻りますか？	End the match and return to the main menu?
+0x16CFDC	中断データの受け取りを完了しました。戦闘を再開します…	Suspend data was received. Resuming the match...
+0x16D014	対戦相手が中断データを受け取りました。戦闘を再開します…	Opponent received suspend data. Resuming the match...
+0x16D050	対戦相手が中断データをロードしました。中断データを受信開始…	Your opponent has loaded suspend data. Starting to receive...
+0x16D090	戦闘を開始します。よろしいですか？	Are you ready to begin the match?
+0x16D0B4	対戦相手の準備が完了するまでしばらくお待ちください。	Please wait for opponent to be ready.
+0x16D0EC	リザルトを終了します。よろしいですか？	The results will close. Is this okay?
+0x16D150	通信環境を構築できませんでした。 タイトル画面へ戻ります。	Unable to establish connection. Returning to title screen.
+0x16D18C	Network.cpp：未初期化でCalcLobby！ 	Network.cpp: CalcLobby w/o initial 
+0x16D1B0	対戦申し込みをキャンセルしました。	Canceled match request.
+0x16D1D4	対戦相手の募集を開始します。	Looking for an opponent.
+0x16D1F4	ホストルームの作成に失敗しました！	Failed to create host room.
+0x16D218	対戦相手を選択します。	Select an opponent.
+0x16D230	対戦を開始します。	Start the match.
+0x16D244	対戦を申し込みます。	Request a match.
+0x16D25C	対戦申し込みに失敗しました。	The match request failed.
+0x16D27C	ゲームモードへの移行に失敗しました。	Failed to switch game mode.
+0x16D2A4	接続エラー：ゲームモードに移行失敗しました。	Connection error: failed to switch game mode.
+0x16D2D4	対戦申し込みがキャンセルされました。	Your match request was canceled.
+0x16D4C8	ロード中にエラーが発生しました。 データが破損している可能性があります。	An error occurred while loading. The data might be corrupted.
+0x16D510	セーブ中にエラーが発生しました。 データが破損している可能性があります。	An error occured while saving. Your data might be corrupted.
+0x16D558	削除中にエラーが発生しました。 データが破損している可能性があります。	An error occurred during deletion. The data might be corrupted.
+0x16D5A0	ロードが中断されました。 データをロードできませんでした。	Loading was interrupted. Unable to load your data.
+0x16D5DC	セーブが中断されました。 データのセーブに失敗した可能性があります。	Saving was interrupted. Your data might not be saved yet.
+0x16D620	削除が中断されました。 データの削除に失敗した可能性があります。	Deletion was interrupted. Your data might still exist.
+0x16D660	ロード中にエラーが発生しました。 データをロードできませんでした。	An error occured while loading. The data could not be loaded.
+0x16D6A4	セーブ中にエラーが発生しました。 データのセーブに失敗した可能性があります。	An error occured while saving. Your data might not be saved yet.
+0x16D6F0	削除中にエラーが発生しました。 データの削除に失敗した可能性があります。	An error occured during deletion. Your data might still exist.
+0x16D738	システムデータの保存は完了していません。 戦闘の途中経過が保存されませんが、 セーブを中止してもよろしいですか？	System data has not been saved. Your progress in the battle will not be saved. Do you want to cancel saving?
+0x16D7A8	システムデータの保存は完了していません。 カスタマイズ設定が 保存されませんがよろしいですか？	System data has not been saved. Your setting changes will not be saved. Is this okay?
+0x16D808	システムデータの保存は完了していません。 戦歴が保存されませんがよろしいですか？	System data has not been saved. Battle History will not be saved. Is this okay?
+0x16D858	システムデータの保存は完了していません。 戦歴とカスタマイズ設定が 保存されませんがよろしいですか？	System data has not been saved. Your battle history and settings will not be saved. Is this okay?
+0x16D8BC	中断データを保存するにはシステムデータを 作成する必要があります。	You must create system data in order to save suspend data.
+0x16D900	システムデータがありません。	Unable to find system data.
+0x16D920	システムデータを作成して 中断データを保存しますか？	Create system data and save the suspend data?
+0x16D954	カスタマイズ設定を保存するには システムデータが必要になります。 システムデータを作成しますか？	To save setting changes, you will need system data. Want to create system data?
+0x16D9B4	戦歴を保存するにはシステムデータが必要になります。 システムデータを作成しますか？	System data is required to save battle history. Want to create system data?
+0x16DA08	戦歴とカスタマイズ設定を保存するには システムデータが必要になります。 システムデータを作成しますか？	To save battle history and settings, you will need system data. Begin creating system data?
+0x16DA70	中断データの保存を中止しますか？	Stop saving the suspend data?
+0x16DA94	カスタマイズ設定が 保存されませんがよろしいですか？	Your custom settings won't be saved. Is this okay?
+0x16DAC8	戦歴が保存されませんがよろしいですか？	Continue without saving battle history?
+0x16DAF0	戦歴とカスタマイズ設定が 保存されませんがよろしいですか？	Battle history and settings won't be saved. Is this okay?
+0x16DB2C	中断データは保存されませんが タイトルに戻りますか？	Progress will be lost! Return to the main menu?
+0x16DB64	オートセーブをＯＮにすると、 戦歴とカスタマイズ設定が自動で更新されます。	With auto save, your battle history and settings are automatically saved.
+0x16DBB0	オートセーブをＯＮにします。	Enable Auto Save.
+0x16DBD0	戦歴とカスタマイズ設定を保存するには タイトル画面でシステムデータを 手動で保存する必要があります。	To save your battle history and settings, you must manually save the system data from the menu.
+0x16DC34	オートセーブをＯＦＦにします。 戦歴とカスタマイズ設定が 自動で更新されなくなりますがよろしいですか？	Turn off auto save. Your battle history and settings will not be automatically updated. Is this okay?
+0x16DC9C	セーブデータの削除を行いますか？	Do you want to delete your data?
+0x16DCC8	メモリースティックTMが挿入されていません。	No Memory StickTM can be found.
+0x16DCF4	Vantage Master PORTABLEのシステムデータを 保存するには空き容量が１２８ＫＢ以上必要です。	You need at least 128 KB of free space to save the system data for Vantage Master Portable.
+0x16DD50	アクセスエラーが発生しました。 メモリースティックTMを確認して下さい。	An access error has occurred. Please check the Memory StickTM.
+0x16DD98	メモリースティックTMの空き容量が不足しています。	Insufficient free space on the Memory StickTM.
+0x16DDCC	Vantage Master PORTABLEのシステムデータを 作成するには空き容量が１２８ＫＢ以上必要です。	You need at least 128 KB of free space to make the system data for Vantage Master Portable.
+0x16DE28	システムデータが破損している恐れがあります。	The system data might be corrupted.
+0x16DE58	Vantage Master PORTABLEのＵＭＤTMが挿入されていません。	No Vantage Master Portable UMD is inserted.
+0x16DE90	アクセス中にエラーが発生しました。	An error occurred during access.
+0x16DEB4	スリープモードに切り替わりました。	The device has entered sleep mode.
+0x16DED8	セーブに失敗しました。 %s	Save failed. %s
+0x16DEF4	このメモリースティックTMは書き込み保護されています。	This Memory StickTM is write-protected.
+0x16DF2C	未知のエラーが発生しました。	An unknown error has occurred.
+0x16DF4C	システムデータの作成が完了しました。	System data has been created.
+0x16DFC4	エキスパートモード　Stage%s	Expert Mode　Stage %s
+0x16DFE0	NORMAL	Normal
+0x16DFE8	HARD	Hard
+0x16DFF0	シナリオモード　Phase%s　%s	Scenario Mode　Phase %s　%s
+0x16E048	システムデータ	System Data
+0x16E068	Total Point：%spt 	Total Points：%spt 
+0x16E088	セーブするには空き容量があと %s以上必要です。	You need at least %s more free space to save.
+0x16E128	画面右下のステータス表示をフル表示にします。	Expand the lower-right status display.
+0x16E158	画面右下のステータス表示を簡略化します。	Simplify the lower-right status display.
+0x16E184	ユニットの移動速度を通常にします。（戦闘中はSELECTボタンで切り替え可能）	Set gameplay to normal speed (switch mid-battle by pressing Select).
+0x16E1D0	ユニットの移動速度を高速化します。（戦闘中はSELECTボタンで切り替え可能）	Set gameplay to fast speed (switch mid-battle by pressing Select).
+0x16E21C	カメラの視点を低くします。（戦闘中はSTARTボタンで切り替え可能）	Lower the camera angle (switch mid-battle by pressing Start).
+0x16E25C	カメラの視点を高くします。（戦闘中はSTARTボタンで切り替え可能）	Raise the camera angle (switch mid-battle by pressing Start).
+0x16E29C	【Ａタイプ】 コマンドの並びを「待機⇒攻撃⇒魔法⇒召喚」の順にします。	[Type A] Command order is Wait ⇒ Attack ⇒ Spell ⇒ Summon.
+0x16E2E4	【Ｂタイプ】 コマンドの並びを「召喚⇒攻撃⇒魔法⇒待機」の順にします。	[Type B] Command order is Summon ⇒ Attack ⇒ Spell ⇒ Wait.
+0x16E32C	【Ｃタイプ】 コマンドの並びを「攻撃⇒待機⇒魔法⇒召喚」の順にします。	[Type C] Command order is Attack ⇒ Wait ⇒ Spell ⇒ Summon.
+0x16E374	システムデータのオートセーブ機能をオンにします。	Enable auto save for the system data.
+0x16E3A8	システムデータのオートセーブ機能をオフにします。	Disable auto save for the system data.
+0x16E3DC	戦闘中、ボイス再生をオンにします。	Enable voices during gameplay.
+0x16E400	戦闘中、ボイス再生をオフにします。	Disable voices during gameplay.
+0x16E424	ＢＧＭの音量を変更します。	Adjust volume for the BGM.
+0x16E440	効果音・ボイスの音量を変更します。	Adjust volume for SFX and voices.
+0x16E464	ゲーム中のＢＧＭをアレンジバージョンにします。	Play with the arranged OST of Vantage Master.
+0x16E494	ゲーム中のＢＧＭをオリジナルバージョンにします。	Play with the original OST of Vantage Master.
+0x16E4C8	ヘルプ表示をオンにします。	Enables the help display.
+0x16E4E4	ヘルプ表示をオフにします。	Disables the help display.
+0x16E500	システムデータのセーブとロードが行えます。	Save and load system data from here.      
+0x16E52C	戦歴データを確認します。	View battle history data.
+0x16E548	ゲームの各種説明を見ます。	View game rules & controls.
+0x16E564	戦闘中における各種設定や、サウンドの設定を変更します。	Change various combat and adjust sound settings. 
+0x16E59C	タイトル画面へ戻ります。	Return to the main menu.
+0x16E5B8	システムメニューを終了します。	Exit the system menu.
+0x16E5D8	戦歴情報とカスタマイズ設定を保存します。	Save battle history and custom settings.
+0x16E604	各種セーブデータを削除します。	Erase save data from storage.
+0x16E624	戦歴情報とカスタマイズ設定を読み込みます。	Load battle history and custom settings.
+0x16E650	ワールドマップへ戻ります。	Return to the world map.
+0x16E670	マスターとネイティアルの紹介ページが鑑賞できます。	View introductions of the Masters and Natials.
+0x16E6BC	中断データを保存しました。	Suspend data was saved.
+0x16E6D8	ネットワークモードの中断データがすでに存在します。	Suspend data for Network Mode already exists.
+0x16E70C	エキスパートモードの中断データがすでに存在します。	Suspend data for Expert Mode already exists.
+0x16E740	シナリオモードの中断データがすでに存在します。	Suspend data for Scenario Mode already exists.
+0x16E770	フリーモードの中断データがすでに存在します。	Suspend data for Free Mode already exists.
+0x16E7A1	上書きしてもよろしいですか？	Overwrite this suspended data?
+0x16E7C0	中断データを保存して タイトル画面に戻りますか？	Save your progress and return to title screen?
+0x16E7F0	オートセーブをＯＮにすると、 戦歴とカスタマイズ設定が自動で更新されます。	By enabling Auto Save, battle history and settings will save automatically.
+0x16E83C	戦歴とカスタマイズ設定を保存するには タイトル画面でシステムデータを 手動で保存する必要があります。	To save your battle history and settings, you must manually save the system data from the menu.
+0x16E8A0	ヘルプ表示	Tooltips  
+0x16E8AC	ユニット情報	Unit Info   
+0x16E8BC	移動高速化	High Speed
+0x16E8C8	カメラ視点	View Angle
+0x16E8D4	コマンドタイプ	Command Order 
+0x16E8E4	オートセーブ	Auto Save   
+0x16E8F4	ボイス再生	Voice Lines
+0x16E900	ＢＧＭ音量	BGM Volume
+0x16E90C	ＳＥ音量	SFX Volume
+0x16E918	ＢＧＭタイプ	BGM Type    
+0x16E92A	戦闘評価ポイント　　　　　　　　　　　　　%5d pt	Combat Evaluation Points　　　　　　　　　%5d pt
+0x16E994	あなたは	You are
+0x16E9A4	　　最高ランクのマスターです。	the highest-ranked master!
+0x16E9C0	次のランクアップまで、	Next rank requirement:
+0x16E9D8	　　　あと %d pt です。	　　　Only %d pt to go!
+0x16E9F0	□ 総所要時間《５００時間》達成！　　　　　　%4d pt	□ Play for over 500 hours!　　　　　　　　　%4d pt
+0x16EA24	□ シナリオモードクリア！（ＮＯＲＭＡＬ）　　%4d pt	□ Clear Scenario Mode on Normal!　　　　　　%4d pt
+0x16EA58	□ シナリオモードクリア！（ＨＡＲＤ）　　　　%4d pt	□ Clear Scenario Mode on Hard!　　　　　　　%4d pt
+0x16EA8C	□ エキスパートモードクリア！　　　　　　　　%4d pt	□ Clear Expert Mode!　　　　　　　　　　　　%4d pt
+0x16EAC0	□ フリーモード全マップ制覇！　　　　　　　　%4d pt	□ Clear all maps in Free Mode!　　　　　　　%4d pt
+0x16EAF4	□ 勝利回数《１００回》達成！　　　　　　　　%4d pt	□ Win 100 battles!　　　　　　　　　　　　　%4d pt
+0x16EB28	□ 死亡回数《１００回》達成…　　　　　　　　%4d pt	□ Lose 100 battles... 　　　　　　　　　　　%4d pt
+0x16EB68	%5d/100体	%5d/100  
+0x16EB7C	□ %sのネイティアル撃破数	□ %s  Natials defeated　
+0x16EB98	%5d/500体	%5d/500  
+0x16EBA4	待機回数（マスター）	Wait Count (Master)
+0x16EBBC	攻撃回数（マスター）	Attack Count (Master)
+0x16EBD4	魔法使用回数（マスター）	Spells Cast (Master)　　
+0x16EBF0	1000回	1000  
+0x16EBF8	500回	500  
+0x16EC08	魔晶石占拠数	Tile Captures
+0x16EC18	%5d/1000個	%5d/1000  
+0x16EC24	消費ＭＰ	MP Usage
+0x16EC30	%5d/20000MP	%5d/20000  
+0x16EC3C	× %2d体	× %2d
+0x16EC5C	ゲームデータのセーブとロードが行えます。	Save and load your game data here.
+0x16EC88	戦闘の途中経過を保存して、タイトル画面に戻ります。	Create a suspend save and exit to the title screen.
+0x16ECBC	ゲームの途中経過を保存します。	Save your current progress.
+0x16ECDC	ゲームデータを読み込み、続きから攻略を再開します。	Load a previous save to resume your progress.
+0x16ED44	オートセーブをＯＮにします。	Enable Auto Save.
+0x16ED64	オートセーブをＯＦＦにします。 戦歴とカスタマイズ設定が 自動で更新されなくなりますがよろしいですか？	Disable Auto Save. Your battle history and settings will not update automatically. Is this okay?
+0x16EDCC	ソーサレス	Sorceress 
+0x16EDE0	タイラント	Tyrant    
+0x16EDEC	タイトル画面へ戻りますか？	Return to the title screen?
+0x16EE08	タイトル画面に戻ると、ゲームの途中経過は 保存されません。よろしいですか？	All unsaved progress will be lost. Will you return to the title screen?
+0x16EE54	ワールドマップに戻りますか？	Return to the world map?
+0x16F0FC	地	  
+0x16F0FF	水	  
+0x16F102	火	  
+0x16F105	天	  
+0x16F49C	イベントスキップしますか？	Skip this event?
+0x1729ED		p
+0x178758	目　次	Topics
+0x17876C	マスターランク	Master Rank
+0x178780	戦闘評価ｐｔ	Evaluation List
+0x178794	ボーナスｐｔ	Bonus Points
+0x1787A8	戦闘評価基準	Score Criteria
+0x1787BC	現在のランク	Current Rank
+0x1787D0	解説①	Explanation①
+0x1787E4	解説②	Explanation②
+0x1787F8	解説③	Explanation③
+0x17880C	ランク表	Ranks
+0x178820	シナリオ①	Scenario①
+0x178834	シナリオ②	Scenario②
+0x178848	エキスパート	Expert
+0x17885C	フリー①	Free①
+0x178870	フリー②	Free②
+0x178884	フリー③	Free③
+0x178898	ボーナス合計	Milestones
+0x1788AC	打倒履歴①	Victories①
+0x1788C0	打倒履歴②	Victories②
+0x1788D4	打倒履歴③	Victories③
+0x1788E8	クリア履歴①	Game Beats①
+0x1788FC	クリア履歴②	Game Beats②
+0x178910	行動ボーナス	Action Bonus
+0x178924	撃破ボーナス	Enemy Bonus
+0x178938	召喚数・地	Summons: Ert
+0x17894C	召喚数・水	Summons: Wtr
+0x178960	召喚数・火	Summons: Fir
+0x178974	召喚数・天	Summons: Hvn
+0x178988	評価基準①	Evaluation①
+0x17899C	評価基準②	Evaluation②
+0x1789B0	評価基準③	Evaluation③
+0x1789C4	評価基準④	Evaluation④
+0x1789D8	評価基準⑤	Evaluation⑤
+0x178A34	目　次	Topics
+0x178A5E	基本マスター①	Masters: Core①
+0x178A88	基本マスター②	Masters: Core②
+0x178AB2	追加マスター①	Masters: Extra①
+0x178ADC	追加マスター②	Masters: Extra②
+0x178B06	ネイティアル地	Natial: Earth 
+0x178B30	ネイティアル水	Natial: Water 
+0x178B5A	ネイティアル火	Natial: Fire  
+0x178B84	ネイティアル天	Natial: Heaven
+0x178BAE	ファイター	Fighter   
+0x178BD8	デューク	Duke    
+0x178C02	ソードマン	Swordsman 
+0x178C2C	ナイト	Knight
+0x178C56	パラディン	Paladin   
+0x178C80	シャドウ	Shadow  
+0x178CAA	レンジャー	Ranger    
+0x178CD4	サベージ	Savage  
+0x178CFE	シーフ	Thief 
+0x178D28	バード	Bard  
+0x178D52	シスター	Sister  
+0x178D7C	ソーサラー	Sorcerer  
+0x178DA6	ウィッチ	Witch   
+0x178DD0	モンク	Monk  
+0x178DFA	スピリット	Spirit    
+0x178E24	ビースト	Beast   
+0x178E4E	ナイトメア	Nightmare 
+0x178E78	フロイライン	Fraulein    
+0x178EA2	ロッドマスター	Rod Master    
+0x178ECC	ストライダー	Strider     
+0x178EF6	クインビュート	Queen-Bute    
+0x178F20	へヴィエッジ	Heavy-Edge  
+0x178F4A	プリンセス	Princess  
+0x178F74	プレイボーイ	Playboy     
+0x178F9E	テクノクラート	Technocrat    
+0x178FC8	グラップラー	Grappler    
+0x178FF2	ジーニアス	Genius    
+0x17901C	ダークナイト	Dark Knight 
+0x179046	ソーサレス	Sorceress 
+0x179070	タイラント	Tyrant    
+0x17909A	パ・ランセル	Pa-Rancell  
+0x1790C4	ダ・カーム	Da-Colm   
+0x1790EE	エ・フェリオン	Ae-Ferrion    
+0x179118	ギア・ブロ	Gia-Bro   
+0x179142	ディ・アルマ	D-Arma      
+0x17916C	バ・メード	Ba-Mado   
+0x179196	レキュー	Requ    
+0x1791C0	ネプトジュノー	Neptjuno      
+0x1791EA	ターブス	Tarbyss 
+0x179214	ザミルペン	Zamilpen  
+0x17923E	マーム	Marme 
+0x179268	テンターク	Tentarch  
+0x179292	ヘピタス	Hepetus 
+0x1792BC	オーンヴィーヴル	Oonvievle       
+0x1792E6	ブリックス	Blyx      
+0x179310	ダルンダラ	Dullmdalla
+0x17933A	ゼノスブリード	Xenofiend     
+0x179364	グリオン	Greon   
+0x17938E	ペリット	Pelitt  
+0x1793B8	キュリア・ベル	Kyria-Bell    
+0x1793E2	アモルタミス	Amoltamis   
+0x17940C	ギュネ・フォス	Guene-Foss    
+0x179436	フィフネル	Fifenall  
+0x179460	レグナ・クロックス	Regna-Croix       
+0x1794DC	はじめに	Introduction
+0x1794FC	基本ルール	Basic Rules
+0x17951C	詳細ルール	Detailed Rules
+0x17953C	射程/効果範囲	Range/Effects
+0x17955C	各種情報	Miscellaneous
+0x17957C	ゲーム説明	Overview
+0x17959C	世界観①	The World①
+0x1795BC	世界観②	The World②
+0x1795DC	世界観③	The World③
+0x1795FC	移動	Move
+0x17961C	行動①	Actions①
+0x17963C	行動②	Actions②
+0x17965C	ＨＰ	HP
+0x17967C	ＭＰ①	MP①
+0x17969C	ＭＰ②	MP②
+0x1796BC	魔晶石①	Crystals①
+0x1796DC	魔晶石②	Crystals②
+0x1796FC	属性①	Elements①
+0x17971C	属性②	Elements②
+0x17973C	ＯＡ	OA
+0x17975C	時間経過	Time of Day
+0x17977C	明るさと特性	Light Bonuses
+0x17979C	Ｚ.Ｏ.Ｃ.	ZOC
+0x1797BC	ＳＡＴ①	SAT①
+0x1797DC	ＳＡＴ②	SAT②
+0x1797FC	ＭＰ詳細	MP Details
+0x17981C	射程①	Adjacent
+0x17983C	射程②	Range①
+0x17985C	射程③	Range②
+0x17987C	射程④	Range③
+0x17989C	射程⑤	Range④
+0x1798BC	効果範囲①	Area Types①
+0x1798DC	効果範囲②	Area Types②
+0x1798FC	効果範囲③	Area Types③
+0x17991C	便利コマンド	Controls
+0x17993C	パラメータ	Parameters
+0x17995C	ＯＡ一覧①	OA List①
+0x17997C	ＯＡ一覧②	OA List②
+0x17999C	ＯＡ一覧③	OA List③
+0x1799BC	地形効果	Terrain Bonus
+0x1799DC	地形一覧①	Terrain List①
+0x1799FC	地形一覧②	Terrain List②
+0x179A1C	地形一覧③	Terrain List③
+0x179A3C	消費移動力	Move Cost
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
