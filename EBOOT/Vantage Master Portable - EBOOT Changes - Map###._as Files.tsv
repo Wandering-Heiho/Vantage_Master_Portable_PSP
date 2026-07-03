@@ -1,0 +1,259 @@
+map000._as		
+旅人の森	Map 01##	
+ネイティアルの属性には相性があります。 地→水→火→天→地…の力関係を 把握しましょう。またギュネ・フォスのような 飛行タイプのネイティアルは斬り込んで くることがあります。注意しましょう。 	Keep in mind every Natial has an element they are strong against: Earth > Water > Fire > Heaven > Earth... Be wary of flying Natials like Guene-Foss. They can move quickly to attack you! 	
+ブルーマスターが圧倒的に有利です。 レッドマスターは奇襲をかける以外 勝機は無いでしょう。 	The Blue Master has the advantage here. The Red Master could try a sneak attack.         	
+		
+map001._as		
+慟哭のオアシス	####Map 02####	
+水の中に入ると、レキューの移動範囲は 広くなります。パ・ランセルも水に入ることが できますが、移動範囲は逆に狭くなります。 それぞれのネイティアルの特性を 把握しながら、戦いを進めていきましょう。 	Move types affect which tiles a unit can be on and their movement range. Requ can move farther in the water, while Masters and Pa-Rancell move slower. Some units can't go in the water at all.  	
+ブルーマスターが圧倒的に有利です。 レッドマスターは速攻をかけ、魔晶石を 確保しなければ勝機がありません。 	The Blue Master has the advantage here. The Red Master must find a way to capture those Crystal tiles.   	
+		
+map002._as		
+暗雲の尖島	##Map 03##	
+魔晶石や茂みの上は防御効果があります。 また魔晶石の上に留まるユニットは、 毎ターンの始めにＨＰが１回復します。 敵マスターの遠距離攻撃に注意しながら 攻めていきましょう。 	Units standing on Crystal or Bush tiles receive a defense boost. Additionally, Crystal tiles heal 1HP to the unit standing on them. Beware this Master's ranged attacks! 	
+ブルーマスターが圧倒的に有利です。 レッドマスターは魔晶石数での大差を 覆さなければなりません。 遮るものが無いため、両者とも斬り込みや 遠距離攻撃には注意が必要です。 	The Blue Master has the advantage here. The Red Master will struggle due to starting at a lower elevation. With so few obstacles, fights can be close or long-range. 	
+		
+map003._as		
+虚無の妖宮	##Map 04##	
+ネイティアルの中には、昼型や夜型の ものがいます。昼型は明るい所では強く、 暗い場所では弱くなります。 通常、明るさは時間と共に変化しますが、 屋内では明るさは常に一定です。 	Some Natials are impacted by brightness. Day-Type Natials are more powerful when it's bright, but weaken in dark locations. Indoor areas keep a consistent brightness.     	
+ブルーマスターが有利です。 初期位置がほぼ対称なため、進攻する 速度はマスターの特性に依存します。 前面に出すぎても危険にさらされるため、 身の置き所が難しいマップと言えます。 	The Blue Master has the advantage here. Since the map is nearly symmetrical, the speed of your assault will depend on your Master. But be careful about advancing too fast.  	
+		
+map004._as		
+砂丘の蜃気楼	##Map 05####	
+砂漠のような地形では、足を取られて 移動力が落ちてしまいます。また柱状の 足場には、飛行型のネイティアルだけが 着地できます。それぞれの地形の特性を 利用してみましょう。 	Movement is much slower in the desert, as sand tiles reduce the movement of all units that can't fly. Flying Natials can land on the columns for long-range attacks!  	
+ブルーマスターが圧倒的に有利です。 レッドマスターは奇襲と陽動を 繰り返さなければ勝ち目がありません。 移動しづらい砂上での防御には 気を配る必要があります。	The Blue Master has the advantage here. The Red Master will need to use surprise attacks and feints to win. Movement is slow here, be on your guard.	
+		
+map005._as		
+寒波の檻	Map 06##	
+積雪の場所は移動しづらくなっています。 また腐潟（ふせき）と呼ばれる、留まると ダメージを受けてしまう地形があります。 水中には豊富な魔晶石があるので、 水辺での戦闘の進め方を考えましょう。 	The snow and water is going to make it difficult to move. Swamp tiles are also dangerous, as they damage any unit that stops on them. Your Water Natials will be important here.          	
+ブルーマスターが若干有利です。 水中魔晶石を巡る攻防と、陽動の展開が 勝敗を決するでしょう。 中央での戦闘に競り負けてしまうと、 崩れた戦線の建て直しは難しいでしょう。	The Blue Master has a small advantage. The deciding factor on this map is the Crystal tiles underwater in the center. If you lose those, winning will be difficult. 	
+ “Fuseki” (ふせき) Swamp		
+map006._as		
+暗洞に響く歌声	####Map 07####	
+壁や茂みが多く、移動しづらいマップです。 狭い通路では、相手の苦手な属性の ネイティアルを用意し、うまく壁として 使いながら攻めて行くとよいでしょう。 中央の魔晶石を取れば、勝機があります。	Because of the many walls and bushes, traversing this map will be tough. utilize elemental weaknesses to stop your opponent as you capture the Crystal tiles to be victorious.            	
+ブルーマスターが有利です。 常に暗いため、夜型のネイティアルが 活躍するでしょう。壁と茂みを上手く 使えば、効果的な斬り込みが行えます。 魔晶石も少なく、戦局が揺れるマップです。	The Blue Master has the advantage here. Night-type Natials will be powerful here since the brightness doesn't change. Expect heated battles to control the few Crystal tiles.	
+		
+map007._as		
+浸水の廃宮	##Map 08##	
+マスター同士の初期位置が近く、 相手の特攻に注意しなければいけません。 弓や魔法の攻撃も脅威となるでしょう。 常に射程に気を配り、相手の隙を突いて 攻撃に転じましょう。	Both Masters will start near each other, so prepare for spells and ranged attacks. Try to catch the enemy off guard to gain the advantage in this battle.           	
+ブルーマスターが有利です。 マスター同士の初期位置が近く、 全体的にかなり狭いマップです。 特攻や奇襲には十分に注意しましょう。 弓や魔法の効果範囲も脅威になります。 	The Blue Master has the advantage here. Both Masters will start near each other on this small map. Beware of ambushes and ranged attacks, both are quite deadly.  	
+		
+map008._as		
+漂霧の洞窟	##Map 09##	
+中央が２つの道に分かれています。 片側だけに戦力を集中させると、 反対側から攻め込まれてしまうでしょう。 留まるとダメージを受ける腐潟（ふせき） にも注意が必要です。 	With the path split in two, focussing your forces on only one will be disasterous. Watch out for Swamp tiles, as the damage caused by them could lead to defeat.  	
+ブルーマスターが有利です。 レッドマスターは腐潟（ふせき）に阻まれ 中央部に進攻するのが遅れてしまいます。 両者とも、背後の魔晶石を奪われて しまうと形勢が逆転します。 	The Blue Master has the advantage here. Swamp tiles will lead to the Red Master having a slow start. Protecting your Crystal tiles will be key for you success.     	
+		
+map009._as		
+静かなる閃光	##Map 10####	
+障害物が少なく、多方向に注意を払う 必要があります。特にギュネ・フォスや ディ・アルマなどに回り込まれないように 気をつけましょう。状況に応じてマスターの 位置も変えていく必要があるでしょう。 	This map has very few obstacles, so attacks can happen from anywhere. Make sure not to get flanked by D-Arma or Guene-Foss, as both can be quite dangerous if they catch you off guard.     	
+ブルーマスターがやや有利です。 障害物が少なく、多方向に注意が必要な マップです。戦線が広がりすぎないよう 早めの対応を心がけましょう。 段差１の物体は、障害物にはなりません。 	The Blue Master has a small advantage. With how open this map is, you will need to defend from every direction. Be careful about spreading out your units too far to defend!	
+		
+map010._as		
+炎の眠れる山	##Map 11####	
+中央に小高い丘のある場所です。 弓矢を持つユニットは、高い位置からは 攻撃範囲が広がる特性があります。 有利な位置を相手に取られてしまわない ようにしましょう。 	This map has a hill in the center. Units with ranged attacks or spells can reach farther when targetting lower elevations. Be the first to control the hill!	
+条件はほぼ互角です。 中央の丘の部分が狭くなっているため、 歩行タイプのユニットはもたつきます。 レッドマスターが速攻をかけても、 押し返されれば退却がしづらいでしょう。 	No Master has an advantage here. The central hill is quite narrow, so units might struggle crossing over it. The Red Master can get the upperhand with a blitz tactic.	
+		
+map011._as		
+月明りの宮殿	##Map 12####	
+相手との位置が対称な宮殿です。 条件はほぼ互角なので、純粋に ネイティアルの扱いが勝敗の鍵となります。 常に暗いマップである事を利用し、夜型の ネイティアルを活用すると良いでしょう。 	This palace is nearly identical, so victory will be based on how well you can command your Natials. Take advantage of this area's constant darknesss with your Night-Type Natials.	
+条件はほぼ互角です。 地理的な位置関係は互角と言えますが、 ブルーマスターは初めから魔晶石を 占拠しています。後はネイティアルの 扱いが勝敗の鍵となるでしょう。	No Master has an advantage here. With how even the geography of this map is for both sides, winning will be decided by who can use their Natials the best.  	
+		
+map012._as		
+隔絶の孤島	##Map 13##	
+中央の島に魔晶石が密集しています。 早々に占拠しなければなりませんが、 マスターが前に出過ぎると、手痛い奇襲を 受けてしまうかもしれません。自マスターの 得意不得意を把握して戦いましょう。 	The center island has most of the Crystal tiles, so capture them quickly without leaving yourself open to enemy attacks. Using your Master's strengths will be the key for victory here.	
+条件はほぼ互角です。 中央の島には魔晶石が密集し、必然的に 激戦区となります。マスターを動かさずに 攻め続ける手もあるでしょう。 開始は１：３０。すぐに夜明けがやってきます。 	No Master has an advantage here. Most of the fighting will be around the center for the Crystal tiles. Dawn will break soon, so plan out which Natials you will use here. 	
+		
+map013._as		
+闇の抱擁	Map 14##	
+魔晶石の多くが、飛行型のネイティアル でしか占拠できないようになっています。 段差が大きく隣接していない場所や 往来のしにくい場所では、ブリックスなどの 弓を持つネイティアルが活躍するでしょう。 	Many of the Crystal tiles are impossible to reach without a flying Natials. With the difficult to reach areas and steep elevation, ranged units like Blyx will be very effective on this map. 	
+条件は全く互角です。 対称マップですが、魔晶石の多くは飛行 タイプのユニットしか占拠できません。 この地形をいかに利用していくか、その後の 展開まで含めて作戦を立てましょう。	No Master has the advantage here. Flying Natials will be key to capturing the Crystal tiles. It's best to plan a strategy that uses this steep terrain to your advantage. 	
+		
+map014._as		
+水底に潜む力	##Map 15####	
+中央に小高い丘がそびえています。 高い場所を占拠されると非常に戦いづらい ため、気をつける必要があります。 序盤から行動し、相手に陣取られる前に 占拠してしまいましょう。	Fighting will be difficult if the opponent reaches the hill before you can. Plan your assault to reach the hill first and use it to secure your victory on this map!  	
+レッドマスターが有利と言えます。 ブルーマスターは序盤から素早い行動が 要求されます。中央の丘が生命線です。 ただしレッドマスターも、下手な速攻では 弾かれてしまうでしょう。 	The Red Master has the advantage here. The Blue Master will need to act quick and reach the central hill. If the Red Master attacks sloppily, they will be pushed back.   	
+		
+map015._as		
+守護の方陣	##Map 16##	
+相手との位置が対称になっています。 条件は互角なので、通路をいかに 押さえていくかで勝敗が決まります。 敵はバランス型マスターです。こちらも 自マスターの得意な戦法で進めましょう。 	This map has both you and your opponent evenly matched. The victor will be based on your tactics and how well you can use your Master's strengths against a balanced opponent.  	
+条件は全く互角です。 通路の制圧が魔晶石数に比例するため、 通路を使ったテクニックが問われます。 常に明るいマップであることにも 留意しておきましょう。 	No Master has an advantage here. Controlling the corridors will help you capture the Crystal tiles. Day-Type Natials have an advantage here.        	
+		
+map016._as		
+流水が隔つ道	##Map 17####	
+細い道と水路が連なるマップです。 良く地形を把握しておかないと、狭い通路 でつかえたり、奇襲を受けてしまいます。 敵への警戒は遠距離攻撃を持つユニット、 魔晶石占拠は飛行型の者が有利でしょう。 	Be careful in the many narrow paths and waterways to avoid getting ambushed. Ranged units will help keep enemies away and your flying units can easily capture the spread out Crystal tiles.	
+レッドマスターがやや有利です。 両者とも手近な魔晶石を確保した後が 本番です。細い通路と水路は移動に 手間取るため、飛行タイプの斬り込みや 遠距離攻撃が活躍するでしょう。 	The Red Master has a small advantage. Once the Crystal tiles are captured, expect a tough battle on this complex map that incentivizes using ranged and flying units. 	
+		
+map017._as		
+地底の布陣	##Map 18##	
+湿地が多く、足を取られやすい場所です。 湿地は水と同じく、泳げないネイティアルは 進入できません。火のネイティアルなどは 出しどころに注意し、相手の侵攻を 確実に撃退していきましょう。 	Marsh tiles can be difficult to cross, as only units that are able to swim can cross over them. Keep this in mind if you ever need to summon Fire or Heaven Natials.                	
+条件はほぼ互角です。 一見地続きに見えますが、湿地には 泳げないユニットは侵入できないので 注意しましょう。強力なネイティアルを いかに扱うかが焦点です。 	No Master has an advantage here. Because of the Marsh tiles, units that can't swim will have a tough time here. Plan ahead with which Natials to use. 	
+		
+map018._as		
+脈々たる湿原	##Map 19####	
+点在する島に魔晶石が散らばっています。 これらを占拠しつつ、包囲網を敷いて いきましょう。水場が多くタイド魔法の 影響を受けやすいマップでもあります。 ターブスなども活躍するでしょう。	The Crystal tiles are scattered all across this map, making it tough to capture and protect them. Natials like Tarbyss and spells that affect the water level will be powerful here.	
+レッドマスターが僅かに有利です。 ブルーマスターは、点在する魔晶石を 集めることで形勢を逆転できるでしょう。 一方レッドマスターは序盤の行動に手間 取ります。タイド魔法も有効でしょう。 	The Red Master has a small advantage. The Blue Master should capture the Crystal tiles for a better chance to win. The spells Uptide and Downtide can be quite powerful on this map.	
+		
+map019._as		
+侵されざる暗闇	####Map 20####	
+相手の初期位置が高く、弓などの攻撃 範囲には常に気を配る必要があります。 逆に下から上への攻め込みは、行動範囲が 狭まってしまいます。サブコマンドを活用し、 戦略を立てていきましょう。 	Your enemy will be starting much higher than you, so beware their ranged attacks! Movement will be severely limited as you climb to reach them. Use the sub commands to strategize. 	
+レッドマスターが有利です。 ブルーマスターは豊富な魔晶石を背景に、 じっくりと攻めて行く必要があります。 攻めも守りも、段差を利用した テクニックが問われていきます。 	The Red Master has the Advantage here. While the Blue Master has access to a lot of Crystal tiles, survival will be tricky due to the huge elevation disadvantage.	
+		
+map020._as		
+湖底の浮島	##Map 21##	
+壁や柱などの遮るものがないため、常に 相手との位置を考えながら動く必要が あります。中央の水面板が重要な拠点と なってくるでしょう。また、敵マスターの 高い魔法防御にも留意しておきましょう。 	With no pillars or walls to protect you, the enemy can attack from anywhere. The center will likely become the main vantage point of this fight. This opponent resists magic quite well.  	
+どちらが有利とも言えません。 遮るものがないため、常に影響範囲に 気を配る必要があります。 水面板は水位によって高さが変わること、 常に暗いことにも注意しましょう。 	No Master has an advantage here. Without walls or pillars, be careful of getting surrounded. The water level in the center can change depending on used spells. 	
+		
+map021._as		
+久遠に白き谷	##Map 22####	
+初期位置が高いため、遠距離攻撃を持つ ユニットで相手の侵攻を防ぐ事が出来ます。 坂を下った所で食い止め、後方の魔晶石 奪取を狙いましょう。タイド魔法を使えば 右上の魔晶石も占拠が可能です。 	Use your starting elevation to your advantage with ranged units! Keep the enemy away as you capture the Crystal tiles and use the Downtide spell to reach the top-right corner.         	
+どちらが有利とも言えません。 ブルーマスターは少ない魔晶石を、 レッドマスターは地理的不利を補う戦法が 要求されます。右上の魔晶石群の占拠には タイド魔法が有効でしょう。 	No Master has an advantage here. Both Masters will need to overcome a disadvantage to win. Using the Downtide spell will help your units reach the top-right corner.  	
+		
+map022._as		
+海上に揺れる街	####Map 23####	
+マップは大きく２つに分かれています。 飛行タイプ以外のユニットは非常に 行き来しにくいため注意が必要です。 集中する魔晶石群では、あまり一つ一つに 固執せず、多方向から攻めて行きましょう。 	This map is split into two main sections, so units that can't fly will have a hard time navigating it. Capturing a cluster of Crystal tiles is tough if you only go for one at a time.  	
+条件はほぼ互角です。 マップは大きく２つに分かれており、 往来が効きません。水路を道とみなすか 壁とみなすかで展開が変わってきます。 序盤戦からイメージしておきましょう。 	No Master has an advantage here. This map has two main sections without a direct route between them. Victory will depend on if you see the waterways as only barriers.	
+		
+map023._as		
+終焉の玉座	##Map 24##	
+中央にある魔晶石付近がポイントです。 ここより下に追い込まれると劣勢となって しまいます。手の空いたユニットを左右の 横道から送り込めば、背後を取ることも 可能です。様々な戦術を試してみましょう。 	The key point of this battle will be around the central Crystal tiles. You will be at a disadvantage if pushed away from there, but you could use the side paths to reach and fight the enemy.  	
+レッドマスターがやや有利です。 中央の魔晶石付近がポイントになります。 乱戦になりやすいマップなので、 重要なユニットの影響範囲やＯＡなどの チェックを怠らないようにしましょう。 	The Red Master has a a small advantage. This map often becomes a chaotic battle. Keep track of the range for your main units and their Open to Attack (OA) stats as you fight.	
+		
+map024._as		
+魔道の結界	##Map 25##	
+広い水路がマップを分断しています。 陸路は大回りになり、移動には時間が 掛かってしまいます。ネプトジュノーや ターブスは広い水路を利用しつつ攻撃が 可能なので、重宝するでしょう。 	This map is divided by a huge waterway. Movement on land will be slow, but Water Natials like Tarbyss and Neptjuno will be quite handy for fighting and traveling on this map.	
+レッドマスターが有利です。 水路が張り巡らされ、陸路はかなりの 大回りとなります。中央を挟んで マスター同士が対峙しやすいため、 バ・メードなども脅威になるでしょう。 	The Red Master has the advantage here. Land travel will be difficult due to the waterways. Natials like Ba-Mado are deadly when they fight against multiple units.	
+		
+map025._as		
+争奪の双砦	##Map 26##	
+相手は初めから魔晶石を占拠しています。 攻め寄る敵を防ぎつつ、こちらも 攻め込む態勢を整えていきましょう。 敵マスターのクラスはナイトメア、 防御力が低いという弱点があります。 	Your opponent will have quite a bit of magic to start, so try to stop their advancing forces as you prepare. The enemy Master is Nightmare, known for having weak defenses. 	
+どちらが有利とも言えません。 両者とも段差の効果を計算に入れて 行動する必要があります。高所からは牽制、 低所からは陽動。手を尽くして 戦線を有利な形に導いていきましょう。 	No Master has an advantage here. Both sides will need to use the elevation in their plans. Try using ranged units to suppress while your other units push onward!       	
+		
+map026._as		
+安寧の審判	##Map 27##	
+最後の指南として私がお相手します。 タイド魔法の影響を大きく受けるマップ なので、泳げないユニットの使い方には 工夫が必要でしょう。散らばる魔晶石を 回収したら、いよいよ戦端が開かれます。 	I will be your opponent for this battle. Tide magic is quite powerful on this map, so plan out how you will use units that are unable to swim. Capture the Crystal tiles and fight well.	
+レッドマスターがやや有利です。 タイド魔法の影響を大きく受けるため、 常にその効果を念頭において戦況を 動かしましょう。魔晶石が少ないため、 召喚するものも選ばなければなりません。 	The Red Master has a small advantage. Keep your units in mind, as this map is heavily affected tide magic. With very few Crystal tiles here, be selective with summoned units.  	
+		
+map027._as		
+忘却の理想郷	##Map 28####	
+相手は序盤から強力なネイティアルを 召喚しますが、慌てずに対処しましょう。 仕掛け方次第で、事態が何度でも覆る マップです。今までに身につけた技術を 駆使し、戦況の主導権を握りましょう。 	Your opponent will summon many powerful Natials, but do not panic. This battle will likely go back and forth depending on how you play. Use all the skills you have leared to win.    	
+レッドマスターが有利です。 ブルーマスターは魔晶石を確保するため、 奇襲と陽動を繰り返す必要があります。 レッドマスターも戦線維持に苦労します。 基本的なテクニックが問われるでしょう。 	The Red Master has the advantage here. The Blue Master will need to launch many attacks to secure the Crystal tiles. The Red Master will likely struggle holding the front lines.   	
+		
+map028._as		
+未知なる輝き	##Map 29####	
+中央の池のどちら側から攻めて行くか、 状況を見て判断し迅速に行動しましょう。 守るだけでは勝てません。敵マスターの クラスはシャドウ、機動型のマスターのため 戦況は刻一刻と変化していきます。 	Your enemy this time is Shadow, a Master that excels at moving quickly. Just defending will not work for this battle, so decide how you will get past the pond and battle for survival.   	
+レッドマスターが有利です。 中央付近に魔晶石群が集中しているため、 激しい乱戦の展開が予想されます。茂みの 防御効果も念頭に置き、池の周囲を巡る 駆け引きをうまく進めていきましょう。 	The Red Master has the advantage here. Most of the Crystal tiles are around the center, so expect to fight over control. Use the bushes for defense as you navigate this map!     	
+		
+map029._as		
+遙かなる牙城	##Map 30####	
+いよいよギド・カーンとの対決です。 初期位置が不利なため、不用意な行動は 命取りになります。無駄な動きは廃し、 相手の先を読んで作戦を展開しましょう。 長期戦を覚悟して臨む必要があります。 	Brace yourself, this is the final battle! You start at a disadvantage, so careless actions could lead to your defeat. Anticipate Gid Karn's actions and counter. Good luck!             	
+レッドマスターが有利です。 ブル−マスターは点在する魔晶石を 占拠すれば互角に持ち込めます。一方 レッドマスターも地に利があるとは言い難く 効果的な侵攻を考えなくてはなりません。 	The Red Master has the advantage here. The Blue Master should capture as many of the Crystal tiles as they can, while the Red Master will need to focus on a strong offensive.	
+		
+map030._as		
+殺意の森	Map 31##	
+中央の細い通路が戦闘の要になります。 序盤で制さなければ厳しい戦いとなる でしょう。敵は高い魔力を秘めたデューク、 デロス・トロッケン。「七志士の壁」の 異名をとる、ギド・カーンの懐刀です。 	Your opponent is Duke Delos Trocken. He's known as the "Seven Warrior's Wall" and is Gid Karn's right-hand man. Secure the central passage while trying to survive against deadly magic.  	Wall of the Seven Warriors -> Seven Warrior's Wall
+レッドマスターが若干有利です。 ブルーマスターは豊富な魔晶石を占拠 することで戦況を覆せるでしょう。 意外に移動しづらいマップです。中央の 細い通路が戦闘の要となるでしょう。 	The Red Master has a small advantage. However, the Blue Master can get the upper hand by capturing the many Crystal tiles. Try to control the central passage way.        	
+		
+map031._as		
+地脈の鼓動	##Map 32##	
+敵は「碧のクローネ」です。高い魔力を 有しているため、魔力差を考えた行動が 必要になってきます。戦場は意外に 狭いため、強力なネイティアルに効率よく 対処していく必要があるでしょう。 	Your opponent is the dangerous magic caster, Azure Krone. With this map being so narrow, you will need to plan effectively how to defend against powerful Natials as you advance. 	
+レッドマスターが有利と言えます。 水路の両岸に細い道が連なるマップです。 ブルーマスターは柔軟に戦線を保ちつつ、 マスターの防御、敵後方魔晶石への 遊撃を行う必要があります。 	The Red Master has the advantage here. Since the paths are quite narrow, the Blue Master will need to use hit-and-run tactics while capturing the Crystal tiles.          	
+		
+map032._as		
+熱砂の地平線	##Map 33####	
+初期位置は高いため、攻撃を防ぐことは 難しくありません。序盤の行動が、 後々戦況に大きく響いてくるでしょう。 敵は高レベルのナイト、ギド・カーン軍の 主力を率いる「忠義の士」ウォルタンです。 	Your opponent is "Loyal Knight" Woltan. He's the leader of Gid Karn's main army. Use your starting elevation to keep the enemy away to give you time to capture the various Crystal tiles.	
+レッドマスターが有利です。 戦線が出来にくい状態にありがちな、 「思わぬ方向からの攻撃」が起こりやすい マップです。段差の効果にも留意しましょう。 より丁寧に駒を進める必要があります。 	The Red Master has the advantage here. Because the Blue Master can be attacked from both sides, it will be tough for them to have strong defense on their sloped starting elevation.	
+		
+map033._as		
+駆け抜ける旋風	####Map 34####	
+相手の初期位置が高く、常に射程に気を 配る必要があります。加えて山頂への道は 大回りなため、長期戦の覚悟が必要です。 敵は「大魔導士」マグナ・レック。 非常に高い魔力を持っています。 	Your opponent is Magna Wreck, the "Grand Mage" with deadly magical powers. He starts at a high elevation with the only a slow route to reach them. This battle is about endurance.	
+レッドマスターが有利です。 上下を結ぶ道は非常に大回りで、移動には 時間が掛かります。それを利用した 防衛線と切り崩しの攻防になるでしょう。 難易度の高いマップです。 	The Red Master has the advantage here. This challenging map has a long passage to reach the higher elevation, so try your best to break through any defenses.     	
+		
+map034._as		
+魔晶の街道	##Map 35##	
+魔晶石が散らばっており、注意が 分散されやすい場所です。自マスターの 特性に合った拠点を定めましょう。 「紅のファルマ」は高レベルのウィッチ、 その魔力はギド・カーン軍でも最強です。 	Your opponent is Scarlet Pharma, a high-ranking witch with some of the strongest magic in Gid Karn's army. Find where your Master's strengths would work best and use them well.  	
+条件はほぼ互角です。 ブルーマスターは攻守を交えた揺さぶり、 レッドマスターは豊富な魔晶石を背景に 力押しが利きます。両者とも状況を整え やすいため、緊迫した戦いになるでしょう。 	No Master has an advantage here. The Blue Master can use both offense and defense to disrupt their opponent, while the Red Master could overwhelm the opposition with numbers.	
+		
+map035._as		
+妖しの回廊	##Map 36##	
+敵はバ・メードや ゼノスブリードなど、最高 クラスのネイティアルを駆使してきます。 いかに対処し攻めに転じるかが鍵でしょう。 ギド・カーンの影、「風のマーヤ」は 高い魔力と機動力を持っています。 	Your opponent is Flurry Maya, the shadow of Gid Karn with great magic and mobility. Expect to face powerful Natials like Xenofiend and Ba-Mado as you try to overcome this difficult battle.	
+どちらが有利とも言えません。 ブルーマスターは初期位置が不利ながら 攻めやすく、レッドマスターは次第に 多方向に対処する必要が出てきます。 中盤以降は戦線が崩れるでしょう。 	No Master has an advantage here. While the Blue Master has a bad starting position, they will be able to attack better than the Red Master, who should focus on defense.	
+		
+map036._as		
+暗闇に轟く咆哮	####Map 37####	
+中央の階段が激戦区となります。前線に 出すぎると、相手ユニットの集中攻撃を 受けてしまうでしょう。敵は七志士の勇 「鋼のジアス」。非常に高い攻撃力に加え、 射程４・仰角大の岩投げを使ってきます。 	Your opponent is Steel Zias, known for his strength and rock-throwing abilities. The central staircase will be the main area for fighting, but be careful about advancing too far too fast.   	
+レッドマスターが有利です。 ブルーマスターは敵の攻撃に耐えながら 魔晶石を維持しなければなりません。 両者とも防御や陽動のテクニックが問わ れます。階段での攻防もポイントでしょう。 	The Red Master has the advantage here. The Blue Master will need to withstand attacks and defend Crystal tiles. The battle on the stairs will be key to winning this match.     	
+		
+map037._as		
+氷河の果つる処	####Map 38####	
+いよいよギド・カーンとの対決です。 魔晶石の回収には若干時間が掛かります。 その後の展開を読み行動を選択しましょう。 これが最後の戦いとなります。 ぜひ女神の微笑を勝ち取ってください。 	The final battle with Gid Karn! It will take a while to capture the Crystal tiles, so try anticipating what the enemy will do to survive. May the Goddess grant you victory.        	
+レッドマスターが有利と言えます。 戦線から離れた場所で小競り合いが 多発するため、ユニット一体一体の扱いが 重要になってきます。両者ともマスターの 特性に合った戦法を展開しましょう。 	The Red Master has the advantage here. Battles can happen anywhere, so plan out how you will use each unit. Try to use your Master's advantages as best as possible to win this.  	
+		
+map038._as		
+噴煙たなびく後は	####Map 39######	
+《噴煙たなびく後は》 		
+条件はほぼ互角です。 魔晶石が多く、魔力を確保しやすいため 両者とも強力な戦線が築けるでしょう。 どの戦況で仕掛けるか、相手の動きを 探りつつタイミングを見計らいましょう。 	No Master has an advantage here. MP is not a major concern here, as there are many Crystal tiles to capture. Watch your opponent for an opening and then stike quickly. 	
+		
+map039._as		
+橋なき河に	##Map 40##	
+《橋なき河に》 		
+レッドマスターが有利です。 水場が多く、タイド魔法の影響を受けやすい マップです。両者が中央で正面衝突する ため、消耗戦になりがちでしょう。ユニット 一体一体の使い方生かし方が問われます。 	The Red Master has the advantage here. Tide magic can be quite powerful thanks to the abundance of water. This will likely be a battle of attrition, so get the most out of every unit. 	
+		
+map040._as		
+死線を越えて	##Map 41####	
+《死線を越えて》 		
+ブルーマスターがやや有利です。 溶岩や棘の部分には侵入できませんが、 仰角の無い、直線タイプの遠距離攻撃も 通ります。注意しましょう。中央の茂み 付近が攻防の要となるでしょう。 	The Blue Master has a small advantage. While you cannot enter the lava, this map does not have obstacles to stop ranged attacks. Use the central bushes while attacking!    	
+		
+map041._as		
+虹の滝の向こう	####Map 42####	
+《虹の滝の向こう》 		
+レッドマスターが有利です。 ブルーマスターは魔晶石を集めることで 形勢を互角まで持ち込めます。 一方高所を取るレッドマスターも、 様々な攻撃スタイルが選択できるでしょう。 	The Red Master has the advantage here. While the Blue Master can better their chances with Crystal tiles, the Red Master has higher elevation and more attack methods.	
+		
+map042._as		
+悠久の流れ	##Map 43##	
+《悠久の流れ》 		
+レッドマスターがかなり有利です。 魔晶石はレッドマスター側に集中し、 ブルーマスターはそれを奪取しなければ なりません。島を繋ぐ細い道は、 タイド魔法で水没する危険性があります。 	The Red Master has a major advantage. Most of the Crystal tiles are near the Red Master, so the Blue Master will have trouble capturing them. Tide magic can be powerful here.	
+		
+map043._as		
+光なき地の底で	####Map 44####	
+《光なき地の底で》 		
+レッドマスターが圧倒的に有利です。 ブルーマスターは序盤の奇襲をかわし、 奥の魔晶石群を占拠しなければ勝ち目が ありません。そこで体勢を立て直せば、 攻守の逆転が狙えます。 	The Red Master has a major advantage. The Blue Master will need to survive the early attacks to capture the Crystal tiles, regroup, and then start a counteroffense.    	
+		
+map044._as		
+揺るぎなき深淵	####Map 45####	
+《揺るぎなき深淵》		
+レッドマスターが圧倒的に有利です。 ブルーマスターは魔晶石数の差を補いつつ 攻め込まなければなりません。狭い 通路での攻防と水の使い方が問われます。 マップの地形を十全に把握しましょう。 	The Red Master has a major advantage. With the Blue Master lacking most of the Crystal tiles, they will need to fight well with the narrow pathways and water to win this battle.     	
+		
+map045._as		
+水をたたえる神殿	####Map 46######	
+《水をたたえる神殿》 		
+レッドマスターが有利と言えます。 ただし序盤の行動如何によっては 戦況が思わぬ方向へと転がります。 ブルーマスターに上手く立ち回られると レッドマスターも苦戦するでしょう。 	The Red Master has the advantage here. However, this battle can quickly shift in favor of the Blue Master, but it will greatly depend on the tactics each player uses.  	
+		
+map046._as		
+冥府を制す者	##Map 47####	
+《冥府を制す者》 		
+レッドマスターがやや有利です。 地形はほぼ対象であり、初期状態の 魔晶石の差も容易に埋められるものです。 中央での混戦を制した者が 勝者となるでしょう。 	The Red Master has a small advantage. This is mainly from Crystal tile distribution. Whoever can dominate the center will likely win this battle.   	
+		
+map047._as		
+最果ての断崖	##Map 48####	
+《最果ての断崖》 		
+レッドマスターが有利です。 ただし、地の利はブルーマスターも劣って いません。テクニック次第で、戦局を 覆すことが出来るでしょう。崖や通路は それほど広くないため、注意が必要です。 	The Red Master has the advantage here. However, the Blue Master has a massive terrain advantage. With a good strategy that uses the cliffs and pathways, anyone could win here. 	
+		
+map048._as		
+宣戦布告	Map 49##	
+《宣戦布告》 		
+条件が完全に対等な対戦マップです。 全体が狭く、身を隠す場所がないため、 常にユニットの影響範囲を念頭に置いた 行動が要求されます。下手な配置では 味方同士が足を引っ張ることになります。 	No Master has an advantage here. Without any obstacles on this narrow map, positioning and range of every unit is vital for your survival. Being reckless will punish you severely.   	
+		
+map049._as		
+対立の波濤	##Map 50##	
+《対立の波濤》 		
+条件が完全に対等な対戦マップです。 水面板は水位とともに高さが変化します。 これを利用して魔力不足を補いましょう。 また中央に高い山がそびえていることにも 注意しておきましょう。 	No Master has an advantage here. Use the water to your advantage with tide magic to compensate for limited MP. You should also plan around the higher ground in the center.   	
+		
+map050._as		
+無への挑戦	##Map 51##	
+《無への挑戦》 		
+条件が完全に対等な対戦マップです。 すり鉢状になっているため、一度下に 降りると相手の攻撃にさらされることに なります。どこに身を置くか、マスター の特性に合った作戦を展開しましょう。 	No Master has an advantage here. Because the elevation is lower in the center, you will likely be in the enemy's range the farther you advance. Plan around your Master's strengths.	
+		
+map051._as		
+大海に瞬く双星	####Map 52####	
+《大海に瞬く双星》 		
+条件が完全に対等な対戦マップです。 全体が手狭で、奇襲に対する警戒が 必要となるでしょう。中央を分断する腐潟と 壁をうまく利用できるかが鍵です。 魔晶石を巡る激しい攻防が予想されます。 	No Master has an advantage here. With the map having many swamps and obstacles, navigation will be difficult. Stay on guard from surprise attacks as you try to get the upper hand. 	
