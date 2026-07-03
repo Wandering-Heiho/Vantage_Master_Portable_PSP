@@ -379,7 +379,7 @@ Address	Original Data	Edited Data
 0x164CD4	を使える	 Spell
 0x164D04	戦闘を開始します。よろしいですか？	Are you ready to begin the battle?
 0x164D28	対戦相手の準備が完了するまでしばらくお待ちください。	Please wait while your opponent gets ready.
-0x164D60	戦歴に評価されない戦闘です。よろしいですか？	This battle will not count for battle history.
+0x164D60	戦歴に評価されない戦闘です。よろしいですか？	This won't count for battle history. Continue?
 0x165F28	歩	W1
 0x165F2C	歩(泳)	W2
 0x165F34	泳	S1
