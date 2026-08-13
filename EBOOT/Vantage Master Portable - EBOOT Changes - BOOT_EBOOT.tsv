@@ -62,12 +62,12 @@ Address	Original Data	Edited Data
 0x15EFD4	相打ちになりました	Draw, nobody wins.
 0x15EFE8	%sは降伏しました	%s has surrendered.
 0x15EFFC	降伏してもよろしいですか？	Do you want to surrender?
-0x15F270	ランクアップボーナスとして、 追加マスター『ソーサレス』が フリー／ネットワークモードで 使用可能になりました。	As a rank-up bonus, you have unlocked the Sorceress Master for use in the Free and Network modes!
-0x15F2E0	ランクアップボーナスとして、 追加マスター『タイラント』が フリー／ネットワークモードで 使用可能になりました。	As a rank-up bonus, you have unlocked the Tyrant Master for use in the Free and Network modes!
+0x15F270	ランクアップボーナスとして、 追加マスター『ソーサレス』が フリー／ネットワークモードで 使用可能になりました。	As a rank-up bonus, you have unlocked the Sorceress Master for use in both Free and Network mode!
+0x15F2E0	ランクアップボーナスとして、 追加マスター『タイラント』が フリー／ネットワークモードで 使用可能になりました。	As a rank-up bonus, you have unlocked the Tyrant Master for use in both Free and Network mode!
 0x15F350	シナリオモードクリアを達成しました。	You have cleared Scenario Mode!
-0x15F378	ボーナスとして、新たに４体の追加マスターが シナリオ／エキスパートモードで 使用可能になりました。	As a reward, you can now use four additional Masters in the Scenario and Expert modes!
+0x15F378	ボーナスとして、新たに４体の追加マスターが シナリオ／エキスパートモードで 使用可能になりました。	As a reward, four additional Masters from Trails in the Sky are usable in both Scenario and Expert!
 0x15F3DC	エキスパートモードクリアを達成しました。	You have cleared Expert Mode!
-0x15F408	ボーナスとして、新たに２体の追加マスターが シナリオ／エキスパートモードで 使用可能になりました。	As a reward, you can now use two additional Masters in the Scenario and Expert Modes!
+0x15F408	ボーナスとして、新たに２体の追加マスターが シナリオ／エキスパートモードで 使用可能になりました。	As a reward, two additional Masters from Trails in the Sky are usable in both Scenario and Expert!
 0x15F46C	●総所要時間《５００時間》達成！	●Played for 500 hours!
 0x15F490	●魔晶石占拠数《１０００個》達成！	●Captured 1,000 Crystal tiles!
 0x15F4B4	●総消費ＭＰ《２００００ＭＰ》達成！	●Used 20,000 MP!
@@ -81,7 +81,7 @@ Address	Original Data	Edited Data
 0x15F5F4	●エ・フェリオン召喚数《１００体》達成！	●Summoned Ae-Ferrion 100 times!
 0x15F620	●ギア・ブロ召喚数《１００体》達成！	●Summoned Gia-Bro 100 times!
 0x15F648	●ディ・アルマ召喚数《１００体》達成！	●Summoned D-Arma 100 times!
-0x15F670	●バ・メード召喚数《１００体》達成！	●Summoned Ba-Mado 100 times!
+0x15F670	●バ・メード召喚数《１００体》達成！	●Summoned Ma-Gorb 100 times!
 0x15F698	●レキュー召喚数《１００体》達成！	●Summoned Requ 100 times!
 0x15F6BC	●ネプトジュノー召喚数《１００体》達成！	●Summoned Neptjuno 100 times!
 0x15F6E8	●ターブス召喚数《１００体》達成！	●Summoned Tarbyss 100 times!
@@ -172,13 +172,13 @@ Address	Original Data	Edited Data
 0x16024C	●カエデ打倒！	●Bested Maple!
 0x16025C	●ルフィー打倒！	●Bested Luffy!
 0x160270	●アジャン打倒！	●Bested Ajahn!
-0x160284	●リー・リン打倒！	●Bested Leelynn!
+0x160284	●リー・リン打倒！	●Bested Lee Lin!
 0x160298	●ディセール打倒！	●Bested Desale!
 0x1602AC	●ファーキル打倒！	●Bested Fakir!
 0x1602C0	●アトミス打倒！	●Bested Atomis!
-0x1602D4	●ユーリオ打倒！	●Bested Lapis!
+0x1602D4	●ユーリオ打倒！	●Bested Yurio!
 0x1602E8	●ノクシー・メッド打倒！	●Bested Noxie Medd!
-0x160304	●アフサーラ打倒！	●Bested Afshara!
+0x160304	●アフサーラ打倒！	●Bested Noelis!
 0x160318	●ブロウマン打倒！	●Bested Browman!
 0x16032C	●ベルヴァス打倒！	●Bested Belvas!
 0x160340	●ゼーオット打倒！	●Bested Zeott!
@@ -231,7 +231,7 @@ Address	Original Data	Edited Data
 0x1606BE	今回の獲得ポイント	Total From Battle
 0x1606D4	×２	x2
 0x1606DC	×５	x5
-0x1606F0	に昇格しました。	has been promoted.
+0x1606F0	に昇格しました。	is your new rank.
 0x160704	【%s】を手に入れた。 %s	You obtained the %s! %s
 0x160734	リザルトを終了します。よろしいですか？	Do you want to exit the results screen?
 0x16075C	対戦相手の準備が完了するまでしばらくお待ちください。	Please wait while your opponent prepares.
@@ -584,7 +584,7 @@ Address	Original Data	Edited Data
 0x16827C	《ブレス》 味方の全ネイティアルのＨＰを１ポイントずつ 回復させる魔法です。ユニットとの距離は 無関係で、マップ全体に影響を及ぼします。	《Bless》 Restore 1 HP to all of your Natials. This spell has no range limit.
 0x168304	《メディック》 行動不能（金化・銀化・凍結）に陥ったユニットを 正常に戻す支援魔法です。ペリットの持つ メディックと異なり、射程３の発生型魔法です。	《Medic》 Return a target to normal that was solidified with magic. This spell has a range of 3.
 0x168398	《コンジュレート》 敵１体を金属に変化させる支援魔法です。 詠唱者の魔力によって効果時間が異なります。 射程３の発生型魔法です。	《Transmute》 Solidify a target and those around them. The duration is based on your INT. This spell has a range of 3.
-0x168418	魔法を所持していません。	I don't know magic.
+0x168418	魔法を所持していません。	This Master has no spells.
 0x168434	強敵を求め、さすらう女戦士。 攻撃力・防御力・素早さが高く 手堅い戦士型マスターと言える。 その分魔力は低い。接近戦では、 強力な跳び蹴りが頼りになるだろう。	A wandering female warrior hoping to find formidable foes. Has high attack, defense, and speed, but low magic. Excels at close combat with flying kicks.  
 0x1684D0	野望に燃える若き公爵。 高い魔力と素早さを両立した魔力型 マスター。防御面は見劣りし、 移動力が３しかないのが弱点だ。 突剣による隣接攻撃が可能。	A young duke with burning ambition. Strong with his magic and speed, but has low defense and movement. Attacks with elegant sword thrusts.    
 0x168560	流れるままに生きる漂泊の剣客。 攻撃力が高く、魔力も高めの バランス型マスターと言える。 弱点は低めの防御力か。強力な 隣接攻撃・居合い斬りを持つ。	A wandering swordsman that lives with the flow. Has high attack and decent magic, but low defense. His sword skills make him a deadly opponent. 
@@ -650,7 +650,7 @@ Address	Original Data	Edited Data
 0x16A778	《エ・フェリオン》 遠距離攻撃できる地のネイティアルです。 弓は仰角大で、高所からは射程が延びます。 水には入れず、ＯＡが長いことが欠点です。	《Ae-Ferrion》 An Earth Natial capable of ranged attacks. Has increased range with elevation, but it cannot enter water and is quite slow.
 0x16A804	《ギア・ブロ》 地属性では唯一攻撃魔法を持っています。 動きが遅いですが、魔法は遠方の広範囲に ダメージを与えます。水中にも進入可能です。	《Gia-Bro》 An Earth Natial with offensive magic that has long range and hits surrounding tiles. While slow, it can be in the water.
 0x16A88C	《ディ・アルマ》 回復魔法を持つ、地のネイティアルです。 少回復ながら移動範囲が広く、重宝します。 昼型の為、昼や明るい場所では強くなります。	《D-Arma》 An Earth Natial with healing magic. While weak, its mobility makes it useful. It becomes stronger during daytime.
-0x16A918	《バ・メード》 飛行できる地のネイティアルです。 長時間敵を固めてしまう魔法を持っています。 夜型の為、夜や暗い場所では強くなります。	《Ba-Mado》 A flying Earth Natial with magic that can temporarily immobilize enemies. It becomes stronger during nighttime.
+0x16A918	《バ・メード》 飛行できる地のネイティアルです。 長時間敵を固めてしまう魔法を持っています。 夜型の為、夜や暗い場所では強くなります。	《Ma-Gorb》 A flying Earth Natial with magic that can temporarily immobilize enemies. It becomes stronger during nighttime.
 0x16A99C	《レキュー》 基本的な水のネイティアルです。 全ネイティアル中で最も素早いものの、水中 以外では僅かしか移動できないのが難点です。	《Requ》 A basic Water Natial. While it has great speed, its weakness is its reduced movement when outside of water.
 0x16AA1C	《ネプトジュノー》 攻守ともに強力な、水のネイティアルです。 非常に素早く、地上での活躍も期待できます。 加えて遠距離攻撃魔法も持っています。	《Neptjuno》 A Water Natial with high attack and defense. With its speed, it works great on land. It also has a long-range attack spell.
 0x16AAA8	《ターブス》 水の中から出られないネイティアルです。 しかし口から発射する弾はかなりの飛距離が あり、水の多い場所では敵を牽制できます。	《Tarbyss》 A Water Natial that can't leave the water. However, its attacks have incredible range, letting it fight from far away.
@@ -997,7 +997,7 @@ Address	Original Data	Edited Data
 0x1790EE	エ・フェリオン	Ae-Ferrion    
 0x179118	ギア・ブロ	Gia-Bro   
 0x179142	ディ・アルマ	D-Arma      
-0x17916C	バ・メード	Ba-Mado   
+0x17916C	バ・メード	Ma-Gorb   
 0x179196	レキュー	Requ    
 0x1791C0	ネプトジュノー	Neptjuno      
 0x1791EA	ターブス	Tarbyss 
@@ -1060,3 +1060,39 @@ Address	Original Data	Edited Data
 0x1799FC	地形一覧②	Terrain List②
 0x179A1C	地形一覧③	Terrain List③
 0x179A3C	消費移動力	Move Cost
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
