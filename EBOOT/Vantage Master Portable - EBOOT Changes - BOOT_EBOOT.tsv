@@ -208,7 +208,7 @@ Address	Original Data	Edited Data
 0x160544	ネイティアルマスター	Monarch Master
 0x16055C	グレートマスター	Lagoon Master
 0x160570	スーパーマスター	Vandal Master
-0x160584	エクセレントマスター	Advance Master
+0x160584	エクセレントマスター	    Advance Master  
 0x16059C	チックマスター	Arc Master
 0x1605AC	ビギナーマスター	Fantasy Master
 0x1605C0	プチマスター	Petit Master
@@ -760,7 +760,7 @@ Address	Original Data	Edited Data
 0x16CEAC	現在対戦を募集している人は居ません。	No one is looking for an opponent.
 0x16CED4	ネットワークモードの中断データが見つかりました。 このデータで戦闘を再開しますか？ ※中断データは一度ロードすると削除されます。	Network mode suspend data was found. Use this data to resume the match? ※Data will be deleted after loading.
 0x16CF54	Network.cpp：未初期化でCalcGame！ 	Network.cpp: CalcGame w/o initial 
-0x16CF78	対戦相手の決定を待っています。しばらくお待ちください…	Selecting an opponent. Please wait...
+0x16CF78	対戦相手の決定を待っています。しばらくお待ちください…	Opponent is selecting a stage. Please wait...
 0x16CFB0	対戦を終了してタイトル画面へ戻りますか？	End the match and return to the main menu?
 0x16CFDC	中断データの受け取りを完了しました。戦闘を再開します…	Suspend data was received. Resuming the match...
 0x16D014	対戦相手が中断データを受け取りました。戦闘を再開します…	Opponent received suspend data. Resuming the match...
@@ -1060,3 +1060,39 @@ Address	Original Data	Edited Data
 0x1799FC	地形一覧②	Terrain List②
 0x179A1C	地形一覧③	Terrain List③
 0x179A3C	消費移動力	Move Cost
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
+0x		
