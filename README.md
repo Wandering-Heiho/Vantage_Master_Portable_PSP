@@ -13,7 +13,7 @@ Portable's main inclusion is characters from their Legenf of Heroes: Trails in t
 ## General Gameplay
 Battles in Vantage Master are always between two Masters: users able to summon monsters called Natials.
 The goal of each battle is to attack the opposing Master until their HP reaches zero.
-To do this, you can summon Natials to help you fight, each of them being one of four elements: Earth, Water, Fire, Wind
+To do this, you can summon Natials to help you fight, each of them being one of four elements: Earth, Water, Fire, and Heaven.
 Every element is weak to another and resists one of the others. Masters have no element.
 In addition to summoning, Masters can also use spells to change the water level, attack from a distance, heal their Natials slightly, or even cure status effects.
 But in order to summon or cast spells, Masters need to use MP, the amount is based on the kind of Natial summoned or spell used.
