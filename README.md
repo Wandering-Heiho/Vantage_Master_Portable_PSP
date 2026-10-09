@@ -29,7 +29,7 @@ The goal of this project was to get the game into a state where a player could b
 In-depth explanations for rules and gameplay mechanics are available inside the game from the options menu or by opening the menu during gameplay.
 
 ## About AI
-The only AI used in the making of this patch was DeepL, but only as a basis to better understand what was being explained. It could not be used as the final text because of limited space in the ISO where the original text was (and I would not have done that even if I could). In addition to personal research of topics (especially when it came to things like enemy and map names), sources were the original 1997 PC game that Portable is a remake of, and rigorous testing to ensure information provided was accurate. In addition, the minigame that appears in the Trails series was used as a source for official English names for Natials, spells, and Master classes.
+The only AI used in the making of this patch was DeepL, but only as a basis to better understand what was being explained. It could not be used as the final text because of limited space in the ISO where the original text was (and I would not have done that even if I could). In addition to additional research (especially when it came to things like enemy and map names), sources were the original 1997 PC game that Portable is a remake of, and rigorous testing to ensure information provided was accurate. In addition, the minigame that appears in the Trails series was used as a source for official English names for Natials, spells, and Master classes.
 **AI was not used to edit the ISO, create textures, or anything else beyond an initial rough translation of the text.**
 
 ## Patching Instructions
