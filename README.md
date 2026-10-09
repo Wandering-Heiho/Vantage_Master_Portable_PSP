@@ -30,7 +30,7 @@ In-depth explanations for rules and gameplay mechanics are available inside the 
 
 ## About AI
 The only AI used in the making of this patch was DeepL, but only as a basis to better understand what was being explained. It could not be used as the final text because of limited space in the ISO where the original text was (and I would not have done that even if I could). In addition to personal research of topics (especially when it came to things like enemy and map names), sources were the original 1997 PC game that Portable is a remake of, and rigorous testing to ensure information provided was accurate. In addition, the minigame that appears in the Trails series was used as a source for official English names for Natials, spells, and Master classes.
-AI was not used to edit the ISO, create textures, or anything else beyond an initial rough translation of the text.
+**AI was not used to edit the ISO, create textures, or anything else beyond an initial rough translation of the text.**
 
 ## Patching Instructions
 Use a program that can use .xdelta files like xdeltaUI to apply the patch to the original Japan ISO.
